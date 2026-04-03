@@ -1,0 +1,719 @@
+pit: -6.21, rol: 3.01, yaw: 152.72, acc_x: 1840, acc_y: 74, acc_z: 14136, gyr_x: -8, gyr_y: 33, gyr_z: -20, temp: 2452
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -7.69, rol: 2.75, yaw: 152.42, acc_x: 1262, acc_y: 206, acc_z: 13330, gyr_x: -152, gyr_y: -6, gyr_z: 117, temp: 2455
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -7.50, rol: 2.34, yaw: 152.55, acc_x: 2118, acc_y: 290, acc_z: 14086, gyr_x: -96, gyr_y: 64, gyr_z: 30, temp: 2453
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -7.22, rol: 1.39, yaw: 153.39, acc_x: 2622, acc_y: 716, acc_z: 13572, gyr_x: -31, gyr_y: 139, gyr_z: -50, temp: 2454
+121.21415E 31.5909N 3103.5m 0.0Km/H
+pit: -7.10, rol: 0.53, yaw: 154.29, acc_x: 2404, acc_y: 1112, acc_z: 13100, gyr_x: -123, gyr_y: -207, gyr_z: -185, temp: 2454
+121.21415E 31.5909N 15.0m 0.0Km/H
+pit: -6.83, rol: 0.04, yaw: 154.79, acc_x: 2958, acc_y: -218, acc_z: 16046, gyr_x: 52, gyr_y: -79, gyr_z: -136, temp: 2453
+121.21415E 31.5909N 15.0m 0.0Km/H
+pit: -6.44, rol: -0.25, yaw: 155.08, acc_x: 2126, acc_y: -594, acc_z: 13804, gyr_x: 124, gyr_y: 94, gyr_z: 256, temp: 2449
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -6.02, rol: -0.17, yaw: 155.05, acc_x: 2288, acc_y: 110, acc_z: 16630, gyr_x: 111, gyr_y: 11, gyr_z: -240, temp: 2452
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -5.57, rol: -0.19, yaw: 154.99, acc_x: 2642, acc_y: 538, acc_z: 13320, gyr_x: 113, gyr_y: -12, gyr_z: -117, temp: 2451
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -5.86, rol: -0.34, yaw: 154.44, acc_x: 1018, acc_y: -444, acc_z: 16836, gyr_x: -165, gyr_y: -24, gyr_z: -23, temp: 2451
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -7.36, rol: -0.28, yaw: 153.47, acc_x: 1710, acc_y: 1572, acc_z: 11794, gyr_x: 6, gyr_y: -142, gyr_z: 285, temp: 2451
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -8.53, rol: 0.30, yaw: 152.57, acc_x: 1322, acc_y: 2290, acc_z: 12960, gyr_x: 22, gyr_y: 103, gyr_z: 200, temp: 2449
+121.21415E 31.5909N 25.0m 0.0Km/H
+pit: -8.39, rol: 1.47, yaw: 152.58, acc_x: 3076, acc_y: 846, acc_z: 17828, gyr_x: 180, gyr_y: 203, gyr_z: -308, temp: 2451
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -7.86, rol: 2.23, yaw: 154.01, acc_x: 1740, acc_y: 990, acc_z: 10160, gyr_x: 117, gyr_y: 55, gyr_z: -191, temp: 2449
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -6.48, rol: 6.05, yaw: 146.20, acc_x: 2890, acc_y: 482, acc_z: 14240, gyr_x: 15, gyr_y: -43, gyr_z: 16, temp: 2452
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -6.35, rol: 5.99, yaw: 144.34, acc_x: 356, acc_y: 1154, acc_z: 14978, gyr_x: 8, gyr_y: -162, gyr_z: 153, temp: 2446
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -6.67, rol: 5.58, yaw: 143.00, acc_x: 1834, acc_y: 1226, acc_z: 10678, gyr_x: 2, gyr_y: -53, gyr_z: 418, temp: 2449
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -7.69, rol: 5.61, yaw: 141.21, acc_x: 2392, acc_y: 608, acc_z: 15242, gyr_x: 181, gyr_y: 295, gyr_z: -166, temp: 2448
+121.21415E 31.5909N 2.3m 0.0Km/H
+pit: -8.08, rol: 4.87, yaw: 141.95, acc_x: 1664, acc_y: 1794, acc_z: 11864, gyr_x: 81, gyr_y: -35, gyr_z: 255, temp: 2447
+121.21415E 31.5909N 2.3m 0.0Km/H
+pit: -8.40, rol: 4.69, yaw: 144.15, acc_x: 2258, acc_y: 2348, acc_z: 16276, gyr_x: 384, gyr_y: -45, gyr_z: -320, temp: 2449
+121.21415E 31.5909N 2.3m 0.0Km/H
+pit: -8.90, rol: 4.06, yaw: 145.39, acc_x: 1752, acc_y: 624, acc_z: 12418, gyr_x: -364, gyr_y: 21, gyr_z: -241, temp: 2448
+121.21415E 31.5909N 2.0m 0.0Km/H
+pit: -9.22, rol: 1.73, yaw: 147.61, acc_x: 2536, acc_y: -220, acc_z: 13432, gyr_x: 59, gyr_y: -182, gyr_z: -128, temp: 2444
+121.21415E 31.5909N 1.0m 0.0Km/H
+pit: -9.52, rol: 2.01, yaw: 150.18, acc_x: 1744, acc_y: 222, acc_z: 15152, gyr_x: 215, gyr_y: 182, gyr_z: 346, temp: 2443
+121.21415E 31.5909N 2.3m 0.0Km/H
+pit: -9.02, rol: 4.45, yaw: 151.64, acc_x: 1342, acc_y: 740, acc_z: 9998, gyr_x: -317, gyr_y: -228, gyr_z: 172, temp: 2442
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -4.52, rol: 3.53, yaw: 149.75, acc_x: 2214, acc_y: 1948, acc_z: 15878, gyr_x: 273, gyr_y: -94, gyr_z: -363, temp: 2438
+121.21415E 31.5909N 2.0m 0.0Km/H
+pit: -5.43, rol: 3.11, yaw: 151.62, acc_x: 2422, acc_y: 76, acc_z: 13856, gyr_x: -277, gyr_y: 147, gyr_z: -54, temp: 2436
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -6.49, rol: 4.25, yaw: 152.42, acc_x: 1934, acc_y: 214, acc_z: 12992, gyr_x: 79, gyr_y: 82, gyr_z: -221, temp: 2435
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -6.97, rol: 6.36, yaw: 150.81, acc_x: 870, acc_y: -168, acc_z: 15904, gyr_x: 59, gyr_y: -59, gyr_z: 272, temp: 2434
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -6.77, rol: 7.40, yaw: 148.63, acc_x: 2176, acc_y: 64, acc_z: 13912, gyr_x: 8, gyr_y: -113, gyr_z: -153, temp: 2436
+121.21415E 31.5909N 2.2m 0.0Km/H
+pit: -6.21, rol: 5.82, yaw: 147.97, acc_x: 1198, acc_y: 1502, acc_z: 9964, gyr_x: -133, gyr_y: -81, gyr_z: 98, temp: 2433
+121.21415E 31.5909N 2.0m 0.0Km/H
+pit: -5.63, rol: 4.29, yaw: 147.16, acc_x: 1086, acc_y: 2086, acc_z: 15392, gyr_x: 188, gyr_y: 92, gyr_z: -304, temp: 2432
+121.21415E 31.5908N 2.2m 1.6Km/H
+pit: -6.87, rol: 2.79, yaw: 143.00, acc_x: 904, acc_y: 1754, acc_z: 13256, gyr_x: 165, gyr_y: -137, gyr_z: 220, temp: 2432
+121.21415E 31.5908N 2.2m 1.6Km/H
+pit: -6.87, rol: 2.79, yaw: 143.00, acc_x: 904, acc_y: 1754, acc_z: 13256, gyr_x: 165, gyr_y: -137, gyr_z: 220, temp: 2432
+121.21415E 31.5908N 2.2m 1.6Km/H
+pit: -4.77, rol: 7.26, yaw: 143.79, acc_x: 2446, acc_y: -866, acc_z: 14714, gyr_x: 174, gyr_y: 25, gyr_z: 188, temp: 2429
+121.21416E 31.5908N 2.2m 1.9Km/H
+pit: -4.74, rol: 5.98, yaw: 143.62, acc_x: 1978, acc_y: 1620, acc_z: 11256, gyr_x: -167, gyr_y: -23, gyr_z: 267, temp: 2430
+121.21416E 31.5908N 2.2m 1.9Km/H
+pit: -5.63, rol: 3.84, yaw: 143.62, acc_x: 2186, acc_y: -4, acc_z: 14008, gyr_x: 244, gyr_y: 90, gyr_z: -94, temp: 2431
+121.21417E 31.5908N 2.2m 3.0Km/H
+pit: -6.47, rol: 3.50, yaw: 143.53, acc_x: 1754, acc_y: -128, acc_z: 12778, gyr_x: 8, gyr_y: -155, gyr_z: 111, temp: 2431
+121.21417E 31.5908N 2.2m 3.0Km/H
+pit: -6.59, rol: 4.34, yaw: 144.83, acc_x: 530, acc_y: 3968, acc_z: 13244, gyr_x: 290, gyr_y: 11, gyr_z: -24, temp: 2425
+121.21419E 31.5908N 2.2m 3.0Km/H
+pit: -7.20, rol: 5.03, yaw: 147.58, acc_x: 3042, acc_y: -210, acc_z: 13800, gyr_x: -251, gyr_y: 264, gyr_z: -184, temp: 2427
+121.21419E 31.5908N 2.2m 3.0Km/H
+pit: -8.13, rol: 3.57, yaw: 149.84, acc_x: 1114, acc_y: -662, acc_z: 14026, gyr_x: 285, gyr_y: -147, gyr_z: 81, temp: 2427
+121.21420E 31.5908N 2.2m 4.1Km/H
+pit: -8.70, rol: 1.67, yaw: 151.71, acc_x: 944, acc_y: -638, acc_z: 12998, gyr_x: -195, gyr_y: -316, gyr_z: 28, temp: 2423
+121.21420E 31.5908N 1.0m 4.1Km/H
+pit: -8.81, rol: 2.61, yaw: 153.50, acc_x: 1704, acc_y: 734, acc_z: 13468, gyr_x: 163, gyr_y: 76, gyr_z: 199, temp: 2424
+121.21420E 31.5908N 2.3m 4.1Km/H
+pit: -7.97, rol: 5.15, yaw: 154.13, acc_x: 3014, acc_y: 2060, acc_z: 16598, gyr_x: 232, gyr_y: 34, gyr_z: -425, temp: 2424
+121.21422E 31.5908N 2.3m 4.1Km/H
+pit: -7.51, rol: 6.58, yaw: 153.29, acc_x: 1738, acc_y: 38, acc_z: 11862, gyr_x: -160, gyr_y: 179, gyr_z: -307, temp: 2425
+121.21422E 31.5908N 2.3m 4.1Km/H
+pit: -7.29, rol: 6.46, yaw: 151.17, acc_x: 1732, acc_y: 1116, acc_z: 14606, gyr_x: -70, gyr_y: 167, gyr_z: -152, temp: 2421
+121.21423E 31.5907N 2.3m 4.3Km/H
+pit: -6.68, rol: 4.72, yaw: 150.40, acc_x: -382, acc_y: 1462, acc_z: 14262, gyr_x: -146, gyr_y: -40, gyr_z: -167, temp: 2423
+121.21423E 31.5907N 13.0m 4.3Km/H
+pit: -5.82, rol: 4.89, yaw: 149.02, acc_x: 1246, acc_y: 1282, acc_z: 11390, gyr_x: -28, gyr_y: -409, gyr_z: -207, temp: 2421
+121.21423E 31.5907N 2.3m 4.3Km/H
+pit: -5.45, rol: 5.85, yaw: 148.61, acc_x: 1872, acc_y: 1368, acc_z: 16026, gyr_x: 249, gyr_y: 248, gyr_z: -346, temp: 2424
+121.21423E 31.5906N 2.3m 4.3Km/H
+pit: -7.05, rol: 5.00, yaw: 146.25, acc_x: 2504, acc_y: 728, acc_z: 12242, gyr_x: -217, gyr_y: 189, gyr_z: -89, temp: 2417
+121.21442E 31.5916N 1.0m 10.6Km/H
+pit: -6.13, rol: 4.36, yaw: 145.76, acc_x: 1888, acc_y: 1190, acc_z: 13318, gyr_x: 15, gyr_y: 155, gyr_z: 35, temp: 2412
+121.21442E 31.5915N 1.9m 10.6Km/H
+pit: -5.23, rol: 5.08, yaw: 145.26, acc_x: 454, acc_y: 1626, acc_z: 14270, gyr_x: -205, gyr_y: -56, gyr_z: 109, temp: 2413
+121.21443E 31.5915N 1.9m 10.8Km/H
+pit: -4.97, rol: 4.85, yaw: 145.83, acc_x: 1230, acc_y: 1924, acc_z: 9990, gyr_x: 54, gyr_y: 24, gyr_z: 107, temp: 2410
+121.21443E 31.5915N 1.9m 10.3Km/H
+pit: -5.74, rol: 4.10, yaw: 146.72, acc_x: 2006, acc_y: 2248, acc_z: 16358, gyr_x: -62, gyr_y: 164, gyr_z: -291, temp: 2411
+121.21443E 31.5914N 1.9m 10.3Km/H
+pit: -6.02, rol: 3.12, yaw: 147.60, acc_x: 1512, acc_y: 724, acc_z: 11602, gyr_x: 201, gyr_y: -175, gyr_z: -326, temp: 2408
+121.21443E 31.5914N 1.9m 10.3Km/H
+pit: -5.98, rol: 2.51, yaw: 148.99, acc_x: 470, acc_y: 3746, acc_z: 13954, gyr_x: 249, gyr_y: 240, gyr_z: -7, temp: 2409
+121.21449E 31.5914N 1.9m 9.4Km/H
+pit: -6.70, rol: 3.92, yaw: 143.07, acc_x: 1450, acc_y: -746, acc_z: 12110, gyr_x: -421, gyr_y: -209, gyr_z: 81, temp: 2406
+121.21449E 31.5914N 1.9m 8.7Km/H
+pit: -5.71, rol: 3.99, yaw: 145.09, acc_x: 1950, acc_y: 1322, acc_z: 13880, gyr_x: 273, gyr_y: 90, gyr_z: 192, temp: 2404
+121.21449E 31.5914N 196.0m 8.7Km/H
+pit: -5.78, rol: 3.46, yaw: 145.97, acc_x: 2990, acc_y: 1692, acc_z: 15182, gyr_x: -2, gyr_y: 18, gyr_z: -425, temp: 2407
+121.21450E 31.5915N 3103.5m 8.7Km/H
+pit: -6.91, rol: 1.46, yaw: 146.45, acc_x: 1966, acc_y: 686, acc_z: 9840, gyr_x: -86, gyr_y: 49, gyr_z: -263, temp: 2405
+121.21450E 31.5915N 1.9m 8.7Km/H
+pit: -8.39, rol: 2.25, yaw: 147.13, acc_x: 1000, acc_y: -304, acc_z: 13080, gyr_x: -204, gyr_y: -32, gyr_z: 113, temp: 2406
+121.21450E 31.5916N 1.9m 8.4Km/H
+pit: -8.05, rol: 4.46, yaw: 148.24, acc_x: 1864, acc_y: 1624, acc_z: 12648, gyr_x: 121, gyr_y: 19, gyr_z: 207, temp: 2402
+121.21450E 31.5916N 6.0m 8.4Km/H
+pit: -6.71, rol: 6.73, yaw: 147.41, acc_x: 1826, acc_y: -596, acc_z: 18370, gyr_x: 1, gyr_y: 85, gyr_z: -40, temp: 2405
+121.21450E 31.5917N 1.9m 8.4Km/H
+pit: -6.31, rol: 7.04, yaw: 145.28, acc_x: 998, acc_y: 1932, acc_z: 9418, gyr_x: 213, gyr_y: 16, gyr_z: -298, temp: 2404
+121.21450E 31.5917N 1.9m 8.4Km/H
+pit: -7.11, rol: 5.68, yaw: 144.52, acc_x: 2438, acc_y: 488, acc_z: 13426, gyr_x: -186, gyr_y: 188, gyr_z: -121, temp: 2405
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -6.85, rol: 4.83, yaw: 143.63, acc_x: 2362, acc_y: 920, acc_z: 12052, gyr_x: 3, gyr_y: -205, gyr_z: -311, temp: 2404
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -6.22, rol: 5.22, yaw: 145.31, acc_x: 1546, acc_y: 618, acc_z: 10926, gyr_x: -82, gyr_y: -9, gyr_z: -222, temp: 2403
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -6.32, rol: 3.18, yaw: 146.73, acc_x: 782, acc_y: 678, acc_z: 14156, gyr_x: 10, gyr_y: -22, gyr_z: 495, temp: 2404
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -7.28, rol: 3.46, yaw: 147.85, acc_x: 2090, acc_y: -250, acc_z: 13438, gyr_x: -429, gyr_y: 122, gyr_z: -70, temp: 2402
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -6.83, rol: 4.67, yaw: 147.72, acc_x: 1080, acc_y: 1358, acc_z: 15324, gyr_x: 106, gyr_y: -63, gyr_z: 36, temp: 2405
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -6.40, rol: 5.96, yaw: 146.31, acc_x: 1456, acc_y: 812, acc_z: 12082, gyr_x: -206, gyr_y: -56, gyr_z: -186, temp: 2402
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -5.43, rol: 4.90, yaw: 145.12, acc_x: 2158, acc_y: -1034, acc_z: 15328, gyr_x: 72, gyr_y: -40, gyr_z: 90, temp: 2400
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -5.13, rol: 3.55, yaw: 144.63, acc_x: 2318, acc_y: 628, acc_z: 14462, gyr_x: 51, gyr_y: 127, gyr_z: -419, temp: 2400
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -5.11, rol: 3.69, yaw: 147.30, acc_x: 536, acc_y: -410, acc_z: 13420, gyr_x: -258, gyr_y: -68, gyr_z: 398, temp: 2400
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -4.80, rol: 1.78, yaw: 150.11, acc_x: 1792, acc_y: 838, acc_z: 12824, gyr_x: 167, gyr_y: -113, gyr_z: 249, temp: 2399
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -5.08, rol: -0.66, yaw: 152.89, acc_x: 3368, acc_y: -1302, acc_z: 19860, gyr_x: -98, gyr_y: -38, gyr_z: -352, temp: 2398
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -5.26, rol: -1.31, yaw: 155.37, acc_x: 2990, acc_y: -466, acc_z: 13268, gyr_x: -332, gyr_y: 42, gyr_z: -443, temp: 2400
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -5.98, rol: 0.03, yaw: 157.12, acc_x: 2310, acc_y: -1626, acc_z: 13946, gyr_x: 86, gyr_y: 7, gyr_z: -285, temp: 2397
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -6.55, rol: 1.84, yaw: 157.07, acc_x: 172, acc_y: -496, acc_z: 17760, gyr_x: 2, gyr_y: -89, gyr_z: 147, temp: 2395
+121.21450E 31.5917N 1.9m 8.2Km/H
+pit: -7.12, rol: 2.20, yaw: 155.18, acc_x: 1650, acc_y: -252, acc_z: 10546, gyr_x: 314, gyr_y: -127, gyr_z: 120, temp: 2395
+121.21450E 31.5917N 1.8m 8.2Km/H
+pit: -7.72, rol: 1.60, yaw: 152.76, acc_x: 1878, acc_y: 2828, acc_z: 15006, gyr_x: 305, gyr_y: 71, gyr_z: -402, temp: 2396
+121.21450E 31.5917N 2.0m 8.2Km/H
+pit: -7.73, rol: 0.78, yaw: 150.05, acc_x: 1602, acc_y: -642, acc_z: 13984, gyr_x: -460, gyr_y: 40, gyr_z: -71, temp: 2396
+121.21459E 31.5907N 1.9m 5.9Km/H
+pit: -7.68, rol: 1.23, yaw: 146.34, acc_x: 2412, acc_y: -340, acc_z: 12702, gyr_x: 96, gyr_y: -68, gyr_z: -271, temp: 2392
+121.21463E 31.5901N 2.0m 5.9Km/H
+pit: -7.78, rol: 1.24, yaw: 144.45, acc_x: 854, acc_y: -1374, acc_z: 15094, gyr_x: -21, gyr_y: 13, gyr_z: 244, temp: 2398
+121.21468E 31.5896N 2.1m 5.9Km/H
+pit: -8.20, rol: 1.02, yaw: 144.40, acc_x: 1570, acc_y: 848, acc_z: 9664, gyr_x: -50, gyr_y: -41, gyr_z: 424, temp: 2393
+121.21470E 31.5894N 2.4m 5.9Km/H
+pit: -8.29, rol: 0.51, yaw: 145.46, acc_x: 4262, acc_y: -2844, acc_z: 14824, gyr_x: -20, gyr_y: -69, gyr_z: -251, temp: 2390
+121.21471E 31.5893N 2.5m 5.0Km/H
+pit: -7.27, rol: -1.43, yaw: 146.60, acc_x: 3142, acc_y: 78, acc_z: 12078, gyr_x: 240, gyr_y: 99, gyr_z: -517, temp: 2393
+121.21471E 31.5893N 2.6m 5.0Km/H
+pit: -7.66, rol: -0.16, yaw: 147.60, acc_x: 1366, acc_y: -1816, acc_z: 13644, gyr_x: 184, gyr_y: 63, gyr_z: 149, temp: 2392
+121.21474E 31.5892N 2.6m 5.0Km/H
+pit: -7.81, rol: 2.74, yaw: 148.38, acc_x: 768, acc_y: -898, acc_z: 14868, gyr_x: -185, gyr_y: -61, gyr_z: 202, temp: 2393
+121.21474E 124.93041N 2.6m 5.0Km/H
+pit: -7.19, rol: 5.06, yaw: 146.73, acc_x: 1028, acc_y: 2100, acc_z: 12638, gyr_x: 210, gyr_y: 40, gyr_z: 295, temp: 2392
+121.21475E 31.5891N 2.6m 5.0Km/H
+pit: -6.53, rol: 5.01, yaw: 144.39, acc_x: 3294, acc_y: -1596, acc_z: 19870, gyr_x: -149, gyr_y: 8, gyr_z: -300, temp: 2392
+121.21476E 31.5890N 2.7m 5.5Km/H
+pit: -6.28, rol: 2.28, yaw: 143.95, acc_x: 1688, acc_y: 284, acc_z: 11096, gyr_x: -5, gyr_y: -37, gyr_z: -483, temp: 2394
+121.21476E 31.5890N 2.8m 5.5Km/H
+pit: -6.31, rol: 0.84, yaw: 142.59, acc_x: 1696, acc_y: -1370, acc_z: 15118, gyr_x: 128, gyr_y: 270, gyr_z: -187, temp: 2392
+121.21477E 31.5889N 2.8m 5.5Km/H
+pit: -6.74, rol: 1.87, yaw: 141.27, acc_x: -408, acc_y: 76, acc_z: 14074, gyr_x: -87, gyr_y: -118, gyr_z: 186, temp: 2391
+121.21477E 0.55889N 3.0m 5.5Km/H
+pit: -6.67, rol: 2.37, yaw: 142.05, acc_x: 1172, acc_y: 2602, acc_z: 10368, gyr_x: 4, gyr_y: -30, gyr_z: 551, temp: 2392
+121.21476E 31.5890N 2.9m 5.5Km/H
+pit: -6.58, rol: 1.36, yaw: 143.79, acc_x: 2800, acc_y: 696, acc_z: 20232, gyr_x: -130, gyr_y: 196, gyr_z: -367, temp: 2392
+121.21478E 31.5888N 3.0m 6.0Km/H
+pit: -6.17, rol: -0.83, yaw: 146.56, acc_x: 1696, acc_y: 1258, acc_z: 10570, gyr_x: 29, gyr_y: -161, gyr_z: -465, temp: 2389
+121.21479E 31.5887N 3.1m 6.0Km/H
+pit: -5.97, rol: -2.24, yaw: 149.33, acc_x: -388, acc_y: -2120, acc_z: 16580, gyr_x: 55, gyr_y: -277, gyr_z: 173, temp: 2392
+121.21479E 31.5887N 3.1m 8.2Km/H
+pit: -6.52, rol: -0.80, yaw: 151.92, acc_x: 1820, acc_y: 2608, acc_z: 9062, gyr_x: 66, gyr_y: -171, gyr_z: 494, temp: 2394
+121.21479E 6.40749N 3.4m 8.2Km/H
+pit: -6.30, rol: 0.97, yaw: 152.69, acc_x: 3756, acc_y: 2678, acc_z: 17184, gyr_x: 190, gyr_y: 129, gyr_z: -173, temp: 2389
+121.21481E 31.5886N 2.7m 5.6Km/H
+pit: -6.53, rol: 2.23, yaw: 150.51, acc_x: 3614, acc_y: -334, acc_z: 12412, gyr_x: 19, gyr_y: -228, gyr_z: -472, temp: 2392
+121.21482E 31.5885N 3.5m 5.6Km/H
+pit: -7.63, rol: 6.04, yaw: 136.40, acc_x: 1172, acc_y: 2438, acc_z: 10154, gyr_x: 70, gyr_y: 34, gyr_z: 510, temp: 2392
+121.21482E 31.5885N 3.6m 5.6Km/H
+pit: -7.12, rol: 5.56, yaw: 137.73, acc_x: 2530, acc_y: 3658, acc_z: 15978, gyr_x: 367, gyr_y: 32, gyr_z: -177, temp: 2389
+121.21482E 31.5885N 3.3m 5.8Km/H
+pit: -7.46, rol: 4.41, yaw: 139.47, acc_x: 2774, acc_y: 84, acc_z: 14362, gyr_x: -398, gyr_y: -140, gyr_z: -246, temp: 2390
+121.21482E 31.5885N 3.8m 5.8Km/H
+pit: -7.19, rol: 2.16, yaw: 142.88, acc_x: 1994, acc_y: 294, acc_z: 12984, gyr_x: 112, gyr_y: 89, gyr_z: -297, temp: 2387
+121.21484E 31.5885N 3.7m 5.8Km/H
+pit: -7.07, rol: 2.95, yaw: 146.12, acc_x: -82, acc_y: -2080, acc_z: 16218, gyr_x: -259, gyr_y: -166, gyr_z: 355, temp: 2390
+121.21484E 31.5885N 3.9m 5.8Km/H
+pit: -6.54, rol: 5.39, yaw: 147.86, acc_x: 3922, acc_y: -624, acc_z: 15998, gyr_x: 455, gyr_y: 56, gyr_z: -80, temp: 2391
+121.21484E 31.5884N 4.3m 5.7Km/H
+pit: -6.26, rol: 8.02, yaw: 146.85, acc_x: 3510, acc_y: -334, acc_z: 13756, gyr_x: -240, gyr_y: -10, gyr_z: -383, temp: 2390
+121.21484E 31.5884N 4.3m 5.7Km/H
+pit: -7.10, rol: 9.00, yaw: 143.91, acc_x: 2144, acc_y: -240, acc_z: 12756, gyr_x: 63, gyr_y: 13, gyr_z: -537, temp: 2388
+121.21485E 31.5884N 4.3m 5.7Km/H
+pit: -7.57, rol: 6.80, yaw: 142.32, acc_x: 1118, acc_y: -1210, acc_z: 14786, gyr_x: 120, gyr_y: -51, gyr_z: 207, temp: 2389
+121.21486E 31.5884N 4.4m 5.7Km/H
+pit: -7.36, rol: 6.54, yaw: 139.18, acc_x: 1716, acc_y: 2338, acc_z: 15872, gyr_x: 172, gyr_y: 94, gyr_z: -8, temp: 2390
+121.21486E 31.5884N 4.3m 5.5Km/H
+pit: -6.74, rol: 6.37, yaw: 137.63, acc_x: 3460, acc_y: -734, acc_z: 13420, gyr_x: -187, gyr_y: 36, gyr_z: -179, temp: 2387
+121.21486E 31.5884N 4.0m 5.5Km/H
+pit: -6.56, rol: 5.53, yaw: 137.29, acc_x: 2172, acc_y: 1738, acc_z: 11488, gyr_x: 143, gyr_y: 26, gyr_z: -509, temp: 2388
+121.21487E 31.5883N 4.5m 5.5Km/H
+pit: -7.06, rol: 3.26, yaw: 139.02, acc_x: 474, acc_y: -560, acc_z: 17244, gyr_x: -2, gyr_y: -108, gyr_z: 168, temp: 2387
+121.21488E 31.5883N 4.5m 5.5Km/H
+pit: -7.01, rol: 0.08, yaw: 142.85, acc_x: 1066, acc_y: 3116, acc_z: 15102, gyr_x: 558, gyr_y: 168, gyr_z: 46, temp: 2387
+121.21488E 31.5883N 4.6m 5.5Km/H
+pit: -8.24, rol: -0.14, yaw: 147.40, acc_x: 3164, acc_y: 756, acc_z: 14626, gyr_x: -271, gyr_y: -171, gyr_z: -385, temp: 2385
+121.21488E 31.5883N 13.0m 5.5Km/H
+pit: -8.72, rol: 1.97, yaw: 149.69, acc_x: 2674, acc_y: 1234, acc_z: 10606, gyr_x: 218, gyr_y: -72, gyr_z: -672, temp: 2388
+121.21489E 31.5883N 4.5m 5.5Km/H
+pit: -8.79, rol: 4.11, yaw: 149.40, acc_x: 524, acc_y: -854, acc_z: 17096, gyr_x: -40, gyr_y: -155, gyr_z: 57, temp: 2385
+121.21489E 31.5883N 4.3m 5.5Km/H
+pit: -8.72, rol: 4.44, yaw: 147.33, acc_x: 1576, acc_y: 3770, acc_z: 14100, gyr_x: 482, gyr_y: 222, gyr_z: 104, temp: 2386
+121.21489E 31.5884N 4.5m 5.4Km/H
+pit: -8.82, rol: 2.79, yaw: 145.13, acc_x: 3558, acc_y: 246, acc_z: 16076, gyr_x: -164, gyr_y: -143, gyr_z: -192, temp: 2386
+121.21489E 31.5884N 1.0m 5.4Km/H
+pit: -8.45, rol: 2.69, yaw: 141.47, acc_x: 2424, acc_y: 856, acc_z: 10132, gyr_x: 108, gyr_y: 68, gyr_z: -554, temp: 2387
+121.21490E 31.5884N 4.4m 5.4Km/H
+pit: -8.27, rol: 3.60, yaw: 138.49, acc_x: 670, acc_y: -212, acc_z: 18100, gyr_x: 87, gyr_y: -231, gyr_z: 149, temp: 2386
+121.21490E 31.5883N 4.4m 5.4Km/H
+pit: -6.47, rol: 7.27, yaw: 145.05, acc_x: 3174, acc_y: 310, acc_z: 14840, gyr_x: -92, gyr_y: -82, gyr_z: -260, temp: 2388
+121.21491E 31.5884N 4.6m 5.0Km/H
+pit: -6.27, rol: 7.73, yaw: 143.28, acc_x: 2388, acc_y: 626, acc_z: 10636, gyr_x: 116, gyr_y: -47, gyr_z: -464, temp: 2387
+121.21491E 31.5884N 4.6m 5.0Km/H
+pit: -6.97, rol: 5.72, yaw: 142.68, acc_x: 814, acc_y: 2142, acc_z: 16304, gyr_x: 229, gyr_y: 80, gyr_z: 118, temp: 2385
+121.21491E 31.5884N 4.8m 5.0Km/H
+pit: -7.08, rol: 5.29, yaw: 140.60, acc_x: 798, acc_y: 1136, acc_z: 11404, gyr_x: -304, gyr_y: -139, gyr_z: 368, temp: 2386
+121.21492E 31.5883N 5.1m 5.0Km/H
+pit: -6.47, rol: 6.56, yaw: 139.08, acc_x: 832, acc_y: 3304, acc_z: 13932, gyr_x: 297, gyr_y: 75, gyr_z: 258, temp: 2385
+121.21492E 31.5883N 4.2m 5.0Km/H
+pit: -5.56, rol: 7.35, yaw: 139.57, acc_x: 3180, acc_y: 2000, acc_z: 18420, gyr_x: 321, gyr_y: 33, gyr_z: -310, temp: 2384
+121.21492E 31.5883N 76.0m 5.0Km/H
+pit: -4.97, rol: 6.33, yaw: 140.56, acc_x: 1102, acc_y: 3406, acc_z: 9118, gyr_x: -198, gyr_y: -59, gyr_z: -372, temp: 2387
+121.21494E 31.5884N 3103.5m 5.0Km/H
+pit: -5.44, rol: 4.12, yaw: 142.47, acc_x: 788, acc_y: 884, acc_z: 15160, gyr_x: 175, gyr_y: 9, gyr_z: 86, temp: 2383
+121.21494E 31.5884N 6.2m 5.0Km/H
+pit: -6.40, rol: 3.89, yaw: 144.75, acc_x: 706, acc_y: 3500, acc_z: 12580, gyr_x: 312, gyr_y: 13, gyr_z: 171, temp: 2386
+121.21494E 31.5884N 6.8m 4.5Km/H
+pit: -6.80, rol: 5.67, yaw: 146.87, acc_x: 1940, acc_y: -192, acc_z: 18956, gyr_x: -157, gyr_y: 45, gyr_z: -243, temp: 2387
+121.21494E 31.5884N 6.9m 4.5Km/H
+pit: -5.44, rol: 7.55, yaw: 147.43, acc_x: 1948, acc_y: 1694, acc_z: 10912, gyr_x: 23, gyr_y: -79, gyr_z: -311, temp: 2384
+121.21494E 31.5884N 7.1m 4.5Km/H
+pit: -4.91, rol: 9.41, yaw: 146.36, acc_x: 1090, acc_y: 988, acc_z: 14002, gyr_x: 166, gyr_y: 2, gyr_z: -170, temp: 2385
+121.21495E 31.5883N 7.1m 4.5Km/H
+pit: -5.02, rol: 8.32, yaw: 145.87, acc_x: 704, acc_y: -14, acc_z: 16084, gyr_x: -4, gyr_y: -209, gyr_z: 128, temp: 2384
+121.21494E 31.5884N 7.3m 4.5Km/H
+pit: -5.10, rol: 7.22, yaw: 144.84, acc_x: 1430, acc_y: 2498, acc_z: 10146, gyr_x: 251, gyr_y: 0, gyr_z: 299, temp: 2383
+121.21496E 31.5883N 7.5m 5.0Km/H
+pit: -5.33, rol: 7.40, yaw: 142.60, acc_x: 1988, acc_y: 3458, acc_z: 15774, gyr_x: 234, gyr_y: -45, gyr_z: -198, temp: 2382
+121.21496E 31.5883N 7.7m 5.0Km/H
+pit: -4.91, rol: 7.44, yaw: 142.36, acc_x: 1490, acc_y: 2972, acc_z: 11482, gyr_x: -274, gyr_y: 6, gyr_z: -174, temp: 2383
+121.21496E 31.5883N 7.7m 5.0Km/H
+pit: -5.25, rol: 7.67, yaw: 143.03, acc_x: 1382, acc_y: 1124, acc_z: 14090, gyr_x: -6, gyr_y: 87, gyr_z: -108, temp: 2382
+121.21497E 31.5882N 7.9m 5.0Km/H
+pit: -5.40, rol: 5.85, yaw: 143.64, acc_x: 2326, acc_y: 2170, acc_z: 10362, gyr_x: 177, gyr_y: -45, gyr_z: 321, temp: 2379
+121.21497E 31.5882N 7.7m 5.3Km/H
+pit: -5.68, rol: 4.09, yaw: 145.09, acc_x: 1810, acc_y: 2064, acc_z: 14902, gyr_x: 370, gyr_y: 99, gyr_z: -178, temp: 2381
+121.21497E 31.5882N 7.0m 5.3Km/H
+pit: -6.04, rol: 5.43, yaw: 146.71, acc_x: 2572, acc_y: 1506, acc_z: 13228, gyr_x: -114, gyr_y: -153, gyr_z: -83, temp: 2383
+121.21497E 31.5882N 8.0m 5.3Km/H
+pit: -5.15, rol: 7.77, yaw: 147.06, acc_x: 2614, acc_y: 1884, acc_z: 12964, gyr_x: 31, gyr_y: 229, gyr_z: -134, temp: 2383
+121.21498E 31.5881N 8.0m 5.3Km/H
+pit: -4.35, rol: 8.64, yaw: 145.96, acc_x: 1036, acc_y: 496, acc_z: 16548, gyr_x: 75, gyr_y: -112, gyr_z: 181, temp: 2385
+121.21499E 31.5881N 8.2m 5.2Km/H
+pit: -4.80, rol: 6.73, yaw: 144.99, acc_x: 982, acc_y: 3002, acc_z: 13666, gyr_x: 328, gyr_y: 27, gyr_z: 99, temp: 2383
+121.21499E 31.5881N 8.3m 5.2Km/H
+pit: -5.21, rol: 6.98, yaw: 144.01, acc_x: 700, acc_y: 3420, acc_z: 13518, gyr_x: 152, gyr_y: 64, gyr_z: 102, temp: 2381
+121.21501E 31.5881N 2.0m 5.0Km/H
+pit: -5.52, rol: 7.77, yaw: 145.43, acc_x: 2908, acc_y: 3114, acc_z: 15376, gyr_x: 200, gyr_y: 66, gyr_z: -401, temp: 2382
+121.21502E 31.5881N 491.0m 5.0Km/H
+pit: -4.88, rol: 9.49, yaw: 145.65, acc_x: 1652, acc_y: 1434, acc_z: 10876, gyr_x: -55, gyr_y: 25, gyr_z: -511, temp: 2382
+121.21502E 31.5881N 9.8m 5.0Km/H
+pit: -4.06, rol: 11.00, yaw: 144.34, acc_x: -528, acc_y: 2984, acc_z: 12862, gyr_x: -316, gyr_y: 90, gyr_z: 347, temp: 2381
+121.21502E 31.5881N 9.2m 5.0Km/H
+pit: -4.05, rol: 10.95, yaw: 142.61, acc_x: 498, acc_y: 4068, acc_z: 11122, gyr_x: 13, gyr_y: -241, gyr_z: 318, temp: 2380
+121.21503E 31.5881N 1.0m 5.0Km/H
+pit: -4.26, rol: 9.61, yaw: 141.86, acc_x: 2886, acc_y: 1858, acc_z: 20226, gyr_x: 160, gyr_y: 9, gyr_z: -264, temp: 2385
+121.21503E 31.5880N 10.4m 5.0Km/H
+pit: -3.78, rol: 9.53, yaw: 139.33, acc_x: 1018, acc_y: 3646, acc_z: 8608, gyr_x: -278, gyr_y: 65, gyr_z: -380, temp: 2383
+121.21504E 31.5880N 10.3m 5.0Km/H
+pit: -3.18, rol: 9.68, yaw: 138.20, acc_x: 66, acc_y: -1240, acc_z: 15440, gyr_x: -297, gyr_y: -293, gyr_z: 134, temp: 2382
+121.21504E 31.5880N 9.2m 5.2Km/H
+pit: -3.21, rol: 10.22, yaw: 138.49, acc_x: 1184, acc_y: 1762, acc_z: 10344, gyr_x: 178, gyr_y: 12, gyr_z: 531, temp: 2381
+121.21504E 31.5880N 1.0m 5.2Km/H
+pit: -4.00, rol: 10.66, yaw: 139.26, acc_x: 2310, acc_y: 3388, acc_z: 16218, gyr_x: 419, gyr_y: -104, gyr_z: -218, temp: 2378
+121.21505E 31.5880N 10.4m 5.2Km/H
+pit: -3.83, rol: 8.27, yaw: 141.48, acc_x: 2014, acc_y: 1036, acc_z: 11332, gyr_x: -279, gyr_y: 85, gyr_z: -246, temp: 2382
+121.21505E 31.5880N 10.5m 5.2Km/H
+pit: -5.09, rol: 7.33, yaw: 143.63, acc_x: -558, acc_y: 178, acc_z: 15192, gyr_x: -236, gyr_y: -43, gyr_z: 184, temp: 2380
+121.21505E 31.5880N 10.3m 5.2Km/H
+pit: -6.14, rol: 8.44, yaw: 144.81, acc_x: 1358, acc_y: 1568, acc_z: 9794, gyr_x: -62, gyr_y: -12, gyr_z: 515, temp: 2379
+121.21505E 31.5880N 33.0m 5.2Km/H
+pit: -6.00, rol: 10.08, yaw: 144.07, acc_x: 1912, acc_y: 2350, acc_z: 15926, gyr_x: 502, gyr_y: 116, gyr_z: -120, temp: 2380
+121.21506E 31.5880N 3103.5m 5.2Km/H
+pit: -5.87, rol: 10.37, yaw: 142.69, acc_x: 1668, acc_y: 674, acc_z: 12588, gyr_x: -353, gyr_y: -62, gyr_z: -314, temp: 2382
+121.21507E 31.5880N 10.6m 5.2Km/H
+pit: -6.00, rol: 8.66, yaw: 141.85, acc_x: -42, acc_y: -280, acc_z: 15506, gyr_x: 49, gyr_y: -169, gyr_z: 84, temp: 2377
+121.21507E 31.5880N 9.2m 5.1Km/H
+pit: -5.39, rol: 7.63, yaw: 140.06, acc_x: 1052, acc_y: 1162, acc_z: 9956, gyr_x: -229, gyr_y: 146, gyr_z: 490, temp: 2378
+121.21507E 31.5880N 65.0m 5.1Km/H
+pit: -5.04, rol: 8.05, yaw: 138.44, acc_x: 1456, acc_y: 1606, acc_z: 17012, gyr_x: 343, gyr_y: 4, gyr_z: -6, temp: 2380
+121.21508E 31.5880N 495.0m 5.1Km/H
+pit: -4.79, rol: 8.39, yaw: 138.48, acc_x: 2346, acc_y: 446, acc_z: 13770, gyr_x: -36, gyr_y: -192, gyr_z: -247, temp: 2378
+121.21508E 31.5880N 10.2m 5.1Km/H
+pit: -5.76, rol: 7.76, yaw: 139.21, acc_x: 688, acc_y: 984, acc_z: 17188, gyr_x: 321, gyr_y: -281, gyr_z: 53, temp: 2376
+121.21509E 31.5880N 10.5m 4.8Km/H
+pit: -6.85, rol: 5.39, yaw: 140.46, acc_x: 1862, acc_y: 1380, acc_z: 10328, gyr_x: -260, gyr_y: 131, gyr_z: 399, temp: 2379
+121.21509E 31.5880N 10.0m 4.8Km/H
+pit: -5.00, rol: 5.72, yaw: 147.05, acc_x: 1466, acc_y: 492, acc_z: 11196, gyr_x: 271, gyr_y: -95, gyr_z: -708, temp: 2377
+121.21509E 31.5880N 10.0m 4.8Km/H
+pit: -4.92, rol: 6.90, yaw: 143.65, acc_x: -288, acc_y: 684, acc_z: 16694, gyr_x: 15, gyr_y: -120, gyr_z: 108, temp: 2377
+121.21510E 31.5880N 9.8m 5.2Km/H
+pit: -3.85, rol: 5.57, yaw: 141.97, acc_x: 482, acc_y: 1076, acc_z: 10514, gyr_x: -378, gyr_y: -42, gyr_z: 426, temp: 2377
+121.21510E 31.5880N 9.5m 5.2Km/H
+pit: -3.70, rol: 6.94, yaw: 137.95, acc_x: 1322, acc_y: 3284, acc_z: 14100, gyr_x: 440, gyr_y: 141, gyr_z: 229, temp: 2377
+121.21511E 31.5879N 9.5m 5.2Km/H
+pit: -3.52, rol: 7.41, yaw: 136.30, acc_x: 3746, acc_y: -826, acc_z: 15018, gyr_x: -127, gyr_y: -297, gyr_z: -240, temp: 2378
+121.21511E 31.5879N 9.0m 5.2Km/H
+pit: -3.74, rol: 7.27, yaw: 136.97, acc_x: 330, acc_y: 1804, acc_z: 17174, gyr_x: 217, gyr_y: -91, gyr_z: 152, temp: 2380
+121.21511E 31.5879N 9.2m 5.2Km/H
+pit: -4.40, rol: 5.69, yaw: 138.31, acc_x: 1860, acc_y: 366, acc_z: 11584, gyr_x: -359, gyr_y: -8, gyr_z: 378, temp: 2375
+121.21512E 31.5879N 36.0m 5.2Km/H
+pit: -4.73, rol: 2.87, yaw: 141.02, acc_x: 1356, acc_y: 3712, acc_z: 13088, gyr_x: 318, gyr_y: 341, gyr_z: 163, temp: 2377
+121.21512E 31.5879N 9.0m 5.2Km/H
+pit: -5.42, rol: 2.92, yaw: 143.96, acc_x: 3202, acc_y: 468, acc_z: 15462, gyr_x: -372, gyr_y: -335, gyr_z: -574, temp: 2378
+121.21512E 31.5879N 9.0m 5.2Km/H
+pit: -5.03, rol: 5.27, yaw: 146.28, acc_x: 1194, acc_y: 234, acc_z: 15550, gyr_x: 122, gyr_y: -2, gyr_z: 133, temp: 2377
+121.21512E 31.5880N 9.1m 5.2Km/H
+pit: -4.68, rol: 7.65, yaw: 146.00, acc_x: 908, acc_y: -300, acc_z: 13812, gyr_x: -77, gyr_y: 27, gyr_z: 476, temp: 2375
+121.21512E 31.5880N 65.0m 5.2Km/H
+pit: -6.08, rol: 8.41, yaw: 143.34, acc_x: 1010, acc_y: 3148, acc_z: 12870, gyr_x: 215, gyr_y: 108, gyr_z: 307, temp: 2373
+121.21513E 31.5879N 3103.5m 5.2Km/H
+pit: -7.37, rol: 6.39, yaw: 142.49, acc_x: 2896, acc_y: 1984, acc_z: 15556, gyr_x: 99, gyr_y: -24, gyr_z: -322, temp: 2375
+121.21513E 31.5880N 9.9m 5.2Km/H
+pit: -6.93, rol: 5.83, yaw: 140.11, acc_x: 1154, acc_y: -2452, acc_z: 15996, gyr_x: 93, gyr_y: 76, gyr_z: 85, temp: 2375
+121.21513E 31.5880N 9.2m 5.4Km/H
+pit: -6.11, rol: 6.54, yaw: 138.84, acc_x: 298, acc_y: 248, acc_z: 13068, gyr_x: -119, gyr_y: -96, gyr_z: 153, temp: 2375
+121.21514E 31.5879N 34.0m 5.4Km/H
+pit: -5.96, rol: 6.84, yaw: 139.68, acc_x: 1302, acc_y: 1680, acc_z: 11782, gyr_x: 193, gyr_y: -70, gyr_z: 244, temp: 2375
+121.21514E 31.5879N 500.0m 5.4Km/H
+pit: -6.98, rol: 5.45, yaw: 141.34, acc_x: 2686, acc_y: 3444, acc_z: 17486, gyr_x: 94, gyr_y: -153, gyr_z: -408, temp: 2375
+121.21514E 31.5880N 10.5m 5.4Km/H
+pit: -7.36, rol: 2.98, yaw: 143.67, acc_x: 1656, acc_y: 48, acc_z: 13130, gyr_x: 234, gyr_y: -71, gyr_z: -232, temp: 2375
+121.21515E 31.5879N 10.0m 4.6Km/H
+pit: -6.55, rol: 3.41, yaw: 146.83, acc_x: 784, acc_y: 564, acc_z: 14970, gyr_x: 13, gyr_y: -148, gyr_z: 59, temp: 2376
+121.21515E 31.5879N 196.0m 4.6Km/H
+pit: -4.79, rol: 6.03, yaw: 148.80, acc_x: 996, acc_y: 2318, acc_z: 8450, gyr_x: -177, gyr_y: 188, gyr_z: 429, temp: 2377
+121.21515E 31.5879N 501.0m 4.6Km/H
+pit: -4.46, rol: 8.11, yaw: 148.11, acc_x: 1574, acc_y: 2728, acc_z: 15686, gyr_x: 306, gyr_y: -37, gyr_z: -148, temp: 2374
+121.21516E 31.5879N 11.2m 4.6Km/H
+pit: -5.67, rol: 4.89, yaw: 139.83, acc_x: 628, acc_y: 1052, acc_z: 17600, gyr_x: -84, gyr_y: -137, gyr_z: 160, temp: 2375
+121.21516E 31.5879N 2.0m 4.8Km/H
+pit: -6.50, rol: 5.00, yaw: 140.55, acc_x: 1804, acc_y: 686, acc_z: 10714, gyr_x: -207, gyr_y: -2, gyr_z: 484, temp: 2374
+121.21516E 31.5879N 12.6m 4.8Km/H
+pit: -7.35, rol: 3.71, yaw: 141.69, acc_x: 1110, acc_y: 3414, acc_z: 14874, gyr_x: 287, gyr_y: 101, gyr_z: -5, temp: 2376
+121.21517E 31.5879N 12.5m 4.8Km/H
+pit: -7.94, rol: 1.21, yaw: 144.21, acc_x: 3762, acc_y: -1008, acc_z: 14692, gyr_x: -142, gyr_y: -69, gyr_z: -318, temp: 2372
+121.21517E 31.5880N 12.4m 4.7Km/H
+pit: -8.07, rol: 0.81, yaw: 147.20, acc_x: 848, acc_y: -1020, acc_z: 15068, gyr_x: -8, gyr_y: 79, gyr_z: 49, temp: 2374
+121.21518E 31.5880N 12.4m 4.7Km/H
+pit: -7.88, rol: 2.65, yaw: 149.50, acc_x: 3874, acc_y: -766, acc_z: 13462, gyr_x: -259, gyr_y: 32, gyr_z: -301, temp: 2378
+121.21519E 31.5880N 12.3m 5.0Km/H
+pit: -6.93, rol: 4.78, yaw: 149.20, acc_x: 2092, acc_y: 160, acc_z: 14462, gyr_x: 259, gyr_y: 20, gyr_z: -142, temp: 2377
+121.21519E 31.5880N 12.1m 5.0Km/H
+pit: -6.50, rol: 5.40, yaw: 147.17, acc_x: 4448, acc_y: 364, acc_z: 16186, gyr_x: 217, gyr_y: 136, gyr_z: -520, temp: 2375
+121.21520E 31.5880N 12.4m 5.0Km/H
+pit: -7.02, rol: 4.01, yaw: 145.34, acc_x: 1738, acc_y: 622, acc_z: 13476, gyr_x: 194, gyr_y: -78, gyr_z: -196, temp: 2375
+121.21520E 31.5880N 12.3m 5.0Km/H
+pit: -6.74, rol: 2.89, yaw: 143.01, acc_x: 2264, acc_y: 102, acc_z: 19038, gyr_x: 17, gyr_y: 92, gyr_z: -237, temp: 2380
+121.21521E 31.5881N 12.4m 5.2Km/H
+pit: -6.23, rol: 3.84, yaw: 140.29, acc_x: 1962, acc_y: 1724, acc_z: 12586, gyr_x: 85, gyr_y: 83, gyr_z: -298, temp: 2378
+121.21522E 31.5880N 12.5m 5.2Km/H
+pit: -5.42, rol: 8.91, yaw: 140.03, acc_x: 2380, acc_y: 1746, acc_z: 12390, gyr_x: 194, gyr_y: 14, gyr_z: -354, temp: 2380
+121.21523E 31.5881N 13.6m 5.4Km/H
+pit: -5.95, rol: 6.79, yaw: 139.92, acc_x: 1490, acc_y: 4326, acc_z: 15860, gyr_x: 257, gyr_y: 70, gyr_z: -237, temp: 2378
+121.21524E 31.5881N 13.9m 5.4Km/H
+pit: -6.21, rol: 6.79, yaw: 137.97, acc_x: 1540, acc_y: 2394, acc_z: 9692, gyr_x: 65, gyr_y: -70, gyr_z: -514, temp: 2378
+121.21525E 31.5881N 14.2m 5.4Km/H
+pit: -5.74, rol: 7.97, yaw: 136.73, acc_x: 1662, acc_y: 482, acc_z: 15842, gyr_x: 128, gyr_y: -11, gyr_z: 43, temp: 2379
+121.21526E 31.5881N 13.8m 5.4Km/H
+pit: -5.23, rol: 8.98, yaw: 137.31, acc_x: 1872, acc_y: 2584, acc_z: 9632, gyr_x: -68, gyr_y: -55, gyr_z: -469, temp: 2377
+121.21526E 31.5882N 13.8m 5.4Km/H
+pit: -4.56, rol: 8.50, yaw: 138.12, acc_x: 1300, acc_y: 2010, acc_z: 17004, gyr_x: 248, gyr_y: 58, gyr_z: -32, temp: 2376
+121.21526E 31.5882N 13.3m 5.6Km/H
+pit: -4.51, rol: 6.50, yaw: 140.09, acc_x: 1038, acc_y: 3772, acc_z: 8298, gyr_x: -147, gyr_y: 138, gyr_z: -450, temp: 2379
+121.21527E 31.5882N 13.3m 5.6Km/H
+pit: -4.47, rol: 8.29, yaw: 145.29, acc_x: 1620, acc_y: 2824, acc_z: 8572, gyr_x: -109, gyr_y: 3, gyr_z: -395, temp: 2380
+121.21528E 31.5882N 14.4m 5.3Km/H
+pit: -5.77, rol: 7.15, yaw: 144.21, acc_x: 448, acc_y: 4706, acc_z: 14286, gyr_x: 304, gyr_y: 84, gyr_z: 62, temp: 2380
+121.21529E 31.5882N 14.7m 5.1Km/H
+pit: -5.87, rol: 6.02, yaw: 142.37, acc_x: 1352, acc_y: 1986, acc_z: 10864, gyr_x: -288, gyr_y: -28, gyr_z: -160, temp: 2382
+121.21529E 31.5882N 14.8m 5.1Km/H
+pit: -5.53, rol: 6.83, yaw: 140.57, acc_x: 1514, acc_y: -702, acc_z: 15286, gyr_x: 110, gyr_y: 103, gyr_z: -9, temp: 2381
+121.21530E 31.5882N 88.7m 5.1Km/H
+pit: -4.82, rol: 7.13, yaw: 140.31, acc_x: 2858, acc_y: 1588, acc_z: 15068, gyr_x: -8, gyr_y: -137, gyr_z: -429, temp: 2383
+121.21531E 31.5883N 14.3m 5.6Km/H
+pit: -5.06, rol: 6.84, yaw: 140.80, acc_x: 1418, acc_y: 2524, acc_z: 9870, gyr_x: -61, gyr_y: 53, gyr_z: -431, temp: 2382
+121.21531E 31.5883N 53.0m 5.6Km/H
+pit: -4.99, rol: 4.69, yaw: 141.97, acc_x: 298, acc_y: -344, acc_z: 14780, gyr_x: -31, gyr_y: 6, gyr_z: -100, temp: 2381
+121.21532E 31.5884N 3103.5m 5.6Km/H
+pit: -5.47, rol: 4.01, yaw: 144.46, acc_x: 276, acc_y: 518, acc_z: 12264, gyr_x: -178, gyr_y: -99, gyr_z: 211, temp: 2380
+121.21532E 31.5884N 13.1m 5.6Km/H
+pit: -5.77, rol: 5.48, yaw: 146.91, acc_x: 2596, acc_y: 3974, acc_z: 18592, gyr_x: 112, gyr_y: -157, gyr_z: -208, temp: 2382
+121.21533E 31.5884N 1.9m 5.5Km/H
+pit: -5.08, rol: 7.75, yaw: 147.52, acc_x: 1742, acc_y: 1384, acc_z: 12252, gyr_x: -284, gyr_y: 196, gyr_z: -127, temp: 2385
+121.21533E 31.5884N 12.8m 5.5Km/H
+pit: -4.57, rol: 8.57, yaw: 146.64, acc_x: 1204, acc_y: 1072, acc_z: 14456, gyr_x: 142, gyr_y: 20, gyr_z: -198, temp: 2381
+121.21534E 31.5885N 12.8m 5.5Km/H
+pit: -5.00, rol: 7.81, yaw: 145.30, acc_x: 162, acc_y: -436, acc_z: 14898, gyr_x: -162, gyr_y: 89, gyr_z: 262, temp: 2379
+121.21534E 31.5885N 12.5m 5.5Km/H
+pit: -5.41, rol: 6.39, yaw: 144.52, acc_x: 1836, acc_y: 4914, acc_z: 17036, gyr_x: 173, gyr_y: -61, gyr_z: -219, temp: 2382
+121.21534E 31.5884N 3103.5m 5.8Km/H
+pit: -6.07, rol: 7.03, yaw: 142.11, acc_x: 2214, acc_y: 1008, acc_z: 12338, gyr_x: -320, gyr_y: -187, gyr_z: -420, temp: 2384
+121.21534E 31.5884N 12.5m 5.8Km/H
+pit: -5.41, rol: 7.31, yaw: 141.29, acc_x: 1522, acc_y: -594, acc_z: 12832, gyr_x: 64, gyr_y: 187, gyr_z: -376, temp: 2381
+121.21535E 31.5885N 12.5m 5.8Km/H
+pit: -5.12, rol: 7.57, yaw: 141.91, acc_x: 242, acc_y: -1776, acc_z: 17218, gyr_x: -299, gyr_y: -125, gyr_z: 173, temp: 2380
+121.21536E 31.5885N 12.5m 5.8Km/H
+pit: -5.48, rol: 4.92, yaw: 143.21, acc_x: 1832, acc_y: -190, acc_z: 13720, gyr_x: -213, gyr_y: -68, gyr_z: -237, temp: 2381
+121.21536E 31.5885N 12.2m 5.6Km/H
+pit: -5.83, rol: 3.44, yaw: 141.82, acc_x: 2054, acc_y: -24, acc_z: 13308, gyr_x: 281, gyr_y: -105, gyr_z: 2, temp: 2380
+121.21537E 31.5885N 556.0m 5.6Km/H
+pit: -6.10, rol: 3.98, yaw: 140.27, acc_x: 1916, acc_y: -944, acc_z: 17028, gyr_x: -207, gyr_y: 59, gyr_z: 268, temp: 2378
+121.21537E 31.5885N 12.2m 5.6Km/H
+pit: -6.86, rol: 5.49, yaw: 139.90, acc_x: 2396, acc_y: 2090, acc_z: 15770, gyr_x: 187, gyr_y: 119, gyr_z: -54, temp: 2380
+121.21538E 31.5885N 12.3m 5.4Km/H
+pit: -8.60, rol: 5.64, yaw: 141.08, acc_x: 3194, acc_y: -348, acc_z: 14790, gyr_x: -57, gyr_y: -110, gyr_z: -47, temp: 2380
+121.21538E 31.5885N 1.0m 5.4Km/H
+pit: -9.11, rol: 4.84, yaw: 142.00, acc_x: 2460, acc_y: 584, acc_z: 12062, gyr_x: 127, gyr_y: 118, gyr_z: -294, temp: 2380
+121.21539E 31.5885N 12.4m 5.4Km/H
+pit: -6.69, rol: 2.77, yaw: 144.59, acc_x: -734, acc_y: 1694, acc_z: 14122, gyr_x: 13, gyr_y: 106, gyr_z: 205, temp: 2378
+121.21539E 31.5886N 11.9m 5.4Km/H
+pit: -6.87, rol: 2.00, yaw: 147.13, acc_x: 620, acc_y: 1244, acc_z: 16098, gyr_x: 361, gyr_y: 88, gyr_z: -68, temp: 2380
+121.21539E 31.5886N 12.1m 6.3Km/H
+pit: -7.32, rol: 4.30, yaw: 149.00, acc_x: 2468, acc_y: 240, acc_z: 14442, gyr_x: -207, gyr_y: 111, gyr_z: -37, temp: 2382
+121.21539E 31.5886N 83.0m 6.3Km/H
+pit: -6.84, rol: 6.20, yaw: 149.17, acc_x: 2160, acc_y: 906, acc_z: 11146, gyr_x: 204, gyr_y: -162, gyr_z: -181, temp: 2381
+121.21540E 31.5886N 12.1m 6.3Km/H
+pit: -6.45, rol: 4.37, yaw: 148.87, acc_x: 1274, acc_y: -728, acc_z: 16090, gyr_x: -95, gyr_y: 96, gyr_z: 272, temp: 2382
+121.21540E 31.5886N 11.2m 6.3Km/H
+pit: -7.31, rol: 2.66, yaw: 148.71, acc_x: 1092, acc_y: 2862, acc_z: 14146, gyr_x: 24, gyr_y: 49, gyr_z: -150, temp: 2382
+121.21541E 31.5886N 1.9m 3.0Km/H
+pit: -6.73, rol: 2.20, yaw: 147.89, acc_x: 2438, acc_y: 880, acc_z: 15552, gyr_x: -21, gyr_y: 92, gyr_z: -94, temp: 2379
+121.21541E 31.5886N 11.1m 3.0Km/H
+pit: -5.48, rol: 5.74, yaw: 153.92, acc_x: 1174, acc_y: 1110, acc_z: 10718, gyr_x: -280, gyr_y: -176, gyr_z: -360, temp: 2385
+121.21542E 31.5885N 10.3m 3.4Km/H
+pit: -5.03, rol: 4.60, yaw: 151.97, acc_x: 1692, acc_y: -238, acc_z: 14628, gyr_x: 178, gyr_y: 55, gyr_z: 14, temp: 2384
+121.21543E 31.5885N 10.3m 3.4Km/H
+pit: -5.65, rol: 2.22, yaw: 150.78, acc_x: 884, acc_y: -214, acc_z: 13572, gyr_x: -166, gyr_y: -109, gyr_z: 150, temp: 2382
+121.21541E 31.5886N 10.5m 3.4Km/H
+pit: -6.84, rol: 2.42, yaw: 148.57, acc_x: 912, acc_y: 2832, acc_z: 13000, gyr_x: 234, gyr_y: 142, gyr_z: 81, temp: 2381
+121.21543E 31.5885N 11.1m 3.0Km/H
+pit: -7.24, rol: 3.40, yaw: 147.91, acc_x: 2426, acc_y: -350, acc_z: 17060, gyr_x: 65, gyr_y: -186, gyr_z: -472, temp: 2380
+121.21543E 31.5885N 10.0m 3.0Km/H
+pit: -6.58, rol: 2.99, yaw: 148.96, acc_x: 1272, acc_y: 836, acc_z: 10762, gyr_x: -194, gyr_y: 106, gyr_z: -160, temp: 2382
+121.21543E 31.5885N 10.4m 3.0Km/H
+pit: -6.56, rol: 1.35, yaw: 150.93, acc_x: 1268, acc_y: -2788, acc_z: 15012, gyr_x: 78, gyr_y: -8, gyr_z: 152, temp: 2385
+121.21543E 31.5885N 10.4m 3.0Km/H
+pit: -6.82, rol: 0.42, yaw: 151.96, acc_x: 1454, acc_y: -796, acc_z: 14154, gyr_x: 143, gyr_y: 131, gyr_z: 13, temp: 2385
+121.21543E 31.5885N 10.7m 2.9Km/H
+pit: -6.52, rol: 1.16, yaw: 153.15, acc_x: 144, acc_y: 1780, acc_z: 13456, gyr_x: -138, gyr_y: 0, gyr_z: 66, temp: 2384
+121.21543E 31.5884N 10.8m 2.9Km/H
+pit: -5.62, rol: 2.91, yaw: 153.65, acc_x: 1730, acc_y: 636, acc_z: 11046, gyr_x: -7, gyr_y: -289, gyr_z: -79, temp: 2385
+121.21544E 31.5884N 232.0m 2.9Km/H
+pit: -5.71, rol: 4.06, yaw: 151.51, acc_x: 1894, acc_y: 1064, acc_z: 15728, gyr_x: 85, gyr_y: 209, gyr_z: -466, temp: 2384
+121.21544E 31.5884N 10.8m 2.9Km/H
+pit: -6.84, rol: 2.82, yaw: 149.68, acc_x: 2250, acc_y: 94, acc_z: 13406, gyr_x: -137, gyr_y: -69, gyr_z: -436, temp: 2382
+121.21544E 31.5884N 10.8m 2.9Km/H
+pit: -5.50, rol: 4.00, yaw: 140.67, acc_x: 1834, acc_y: 1584, acc_z: 11300, gyr_x: 244, gyr_y: -86, gyr_z: -220, temp: 2388
+121.21545E 31.5884N 10.8m 3.0Km/H
+pit: -5.35, rol: 4.45, yaw: 141.92, acc_x: 920, acc_y: 304, acc_z: 17704, gyr_x: -226, gyr_y: -110, gyr_z: 475, temp: 2385
+121.21545E 31.5884N 10.8m 3.0Km/H
+pit: -6.10, rol: 3.50, yaw: 141.06, acc_x: 1912, acc_y: 432, acc_z: 11358, gyr_x: 9, gyr_y: 38, gyr_z: 222, temp: 2387
+121.21546E 31.5884N 10.7m 3.1Km/H
+pit: -6.86, rol: 2.99, yaw: 141.40, acc_x: 1268, acc_y: 3928, acc_z: 13256, gyr_x: 167, gyr_y: 273, gyr_z: 140, temp: 2385
+121.21546E 31.5884N 10.7m 3.1Km/H
+pit: -5.69, rol: 1.28, yaw: 154.64, acc_x: 1038, acc_y: 1924, acc_z: 13658, gyr_x: 315, gyr_y: -112, gyr_z: 153, temp: 2390
+121.21551E 31.5884N 10.7m 5.9Km/H
+pit: -6.32, rol: 2.64, yaw: 156.11, acc_x: 3066, acc_y: 2156, acc_z: 17982, gyr_x: 128, gyr_y: -102, gyr_z: -615, temp: 2388
+121.21553E 31.5885N 10.8m 3.5Km/H
+pit: -6.91, rol: 5.34, yaw: 156.30, acc_x: 798, acc_y: 2756, acc_z: 9558, gyr_x: -196, gyr_y: 123, gyr_z: -341, temp: 2387
+121.21554E 31.5885N 10.8m 3.5Km/H
+pit: -7.57, rol: 7.27, yaw: 154.39, acc_x: 902, acc_y: -56, acc_z: 14814, gyr_x: -26, gyr_y: 55, gyr_z: -22, temp: 2388
+121.21546E 31.5883N 10.9m 3.5Km/H
+pit: -7.70, rol: 7.04, yaw: 151.16, acc_x: 324, acc_y: -530, acc_z: 12712, gyr_x: -352, gyr_y: 100, gyr_z: 374, temp: 2386
+121.21558E 31.5883N 10.9m 5.4Km/H
+pit: -7.08, rol: 5.03, yaw: 150.01, acc_x: 1234, acc_y: 2494, acc_z: 13116, gyr_x: 170, gyr_y: -118, gyr_z: 344, temp: 2386
+121.21558E 31.5883N 10.9m 5.4Km/H
+pit: -6.55, rol: 5.35, yaw: 147.40, acc_x: 2862, acc_y: 1878, acc_z: 18032, gyr_x: 101, gyr_y: -192, gyr_z: -298, temp: 2385
+121.21558E 31.5883N 11.1m 5.4Km/H
+pit: -6.04, rol: 5.58, yaw: 146.33, acc_x: 1972, acc_y: 678, acc_z: 11186, gyr_x: -250, gyr_y: 18, gyr_z: -263, temp: 2385
+121.21560E 31.5882N 11.1m 5.4Km/H
+pit: -5.87, rol: 5.23, yaw: 146.85, acc_x: 1310, acc_y: 158, acc_z: 13536, gyr_x: 31, gyr_y: 216, gyr_z: -145, temp: 2387
+121.21560E 31.5882N 11.0m 5.4Km/H
+pit: -5.21, rol: 3.75, yaw: 148.25, acc_x: -106, acc_y: -1644, acc_z: 15646, gyr_x: -335, gyr_y: -45, gyr_z: 176, temp: 2386
+121.21560E 31.5882N 11.2m 4.9Km/H
+pit: -4.49, rol: 1.47, yaw: 150.78, acc_x: 1696, acc_y: 1870, acc_z: 11212, gyr_x: 211, gyr_y: 30, gyr_z: 359, temp: 2386
+121.21560E 31.5882N 11.1m 4.9Km/H
+pit: -4.88, rol: 1.71, yaw: 153.44, acc_x: 1380, acc_y: 2388, acc_z: 16194, gyr_x: 342, gyr_y: -65, gyr_z: -185, temp: 2384
+121.21561E 31.5883N 11.1m 4.9Km/H
+pit: -5.40, rol: 3.70, yaw: 155.02, acc_x: 2242, acc_y: 638, acc_z: 11728, gyr_x: -409, gyr_y: -14, gyr_z: -323, temp: 2384
+121.21561E 31.5883N 11.4m 4.9Km/H
+pit: -6.16, rol: 5.69, yaw: 154.45, acc_x: 366, acc_y: -1458, acc_z: 13676, gyr_x: -223, gyr_y: -113, gyr_z: 137, temp: 2386
+121.21562E 31.5883N 11.3m 5.0Km/H
+pit: -7.07, rol: 4.93, yaw: 152.62, acc_x: 1374, acc_y: 1698, acc_z: 10360, gyr_x: -13, gyr_y: 70, gyr_z: 436, temp: 2385
+121.21562E 31.5883N 11.3m 5.0Km/H
+pit: -7.70, rol: 2.78, yaw: 151.61, acc_x: 1660, acc_y: -282, acc_z: 16338, gyr_x: 213, gyr_y: -40, gyr_z: -25, temp: 2386
+121.21563E 31.5883N 11.3m 5.0Km/H
+pit: -7.64, rol: 2.91, yaw: 149.14, acc_x: 2672, acc_y: -302, acc_z: 13908, gyr_x: -228, gyr_y: 80, gyr_z: -169, temp: 2385
+121.21563E 31.5883N 11.4m 5.0Km/H
+pit: -6.72, rol: 3.68, yaw: 147.39, acc_x: -62, acc_y: -2636, acc_z: 17536, gyr_x: -130, gyr_y: -179, gyr_z: -23, temp: 2385
+121.21563E 31.5883N 11.5m 4.6Km/H
+pit: -5.89, rol: 3.24, yaw: 147.36, acc_x: 1368, acc_y: 490, acc_z: 10084, gyr_x: 142, gyr_y: -28, gyr_z: 567, temp: 2387
+121.21563E 31.5883N 1.0m 4.6Km/H
+pit: -5.85, rol: 1.88, yaw: 148.80, acc_x: 1766, acc_y: 1582, acc_z: 15172, gyr_x: 155, gyr_y: 333, gyr_z: 211, temp: 2385
+121.21564E 31.5883N 11.7m 4.6Km/H
+pit: -5.71, rol: -0.67, yaw: 152.94, acc_x: 570, acc_y: -1094, acc_z: 18166, gyr_x: -5, gyr_y: 39, gyr_z: -11, temp: 2384
+121.21564E 31.5883N 12.1m 4.5Km/H
+pit: -4.85, rol: 1.33, yaw: 155.26, acc_x: 1374, acc_y: -1552, acc_z: 11134, gyr_x: -206, gyr_y: 53, gyr_z: 254, temp: 2385
+121.21564E 31.5883N 12.3m 4.5Km/H
+pit: -4.27, rol: 4.12, yaw: 155.83, acc_x: 1262, acc_y: 3432, acc_z: 14384, gyr_x: 234, gyr_y: 39, gyr_z: 136, temp: 2384
+121.21565E 31.5883N 12.3m 4.5Km/H
+pit: -5.12, rol: 5.19, yaw: 153.61, acc_x: 3974, acc_y: -754, acc_z: 14326, gyr_x: 209, gyr_y: -233, gyr_z: -527, temp: 2383
+121.21566E 31.5883N 12.3m 4.5Km/H
+pit: -5.20, rol: 1.66, yaw: 141.91, acc_x: 782, acc_y: -3080, acc_z: 12222, gyr_x: -321, gyr_y: 16, gyr_z: 433, temp: 2384
+121.21566E 31.5882N 1.0m 4.7Km/H
+pit: -5.02, rol: -0.65, yaw: 144.59, acc_x: 1872, acc_y: 1064, acc_z: 13854, gyr_x: 136, gyr_y: -1, gyr_z: 383, temp: 2384
+121.21566E 31.5882N 12.2m 4.7Km/H
+pit: -6.16, rol: 0.10, yaw: 147.68, acc_x: 2916, acc_y: -1488, acc_z: 17814, gyr_x: 44, gyr_y: 150, gyr_z: -107, temp: 2383
+121.21567E 31.5882N 12.4m 4.7Km/H
+pit: -6.11, rol: 1.13, yaw: 150.13, acc_x: 1398, acc_y: 1986, acc_z: 8854, gyr_x: -193, gyr_y: -27, gyr_z: -605, temp: 2383
+121.21566E 31.5882N 12.4m 4.7Km/H
+pit: -4.64, rol: 2.27, yaw: 151.20, acc_x: 954, acc_y: -2056, acc_z: 14398, gyr_x: -88, gyr_y: 142, gyr_z: -22, temp: 2385
+121.21567E 31.5883N 12.3m 4.7Km/H
+pit: -4.31, rol: 2.92, yaw: 150.66, acc_x: -30, acc_y: -2720, acc_z: 14740, gyr_x: -164, gyr_y: -215, gyr_z: 3, temp: 2385
+121.21567E 31.5883N 12.1m 4.7Km/H
+pit: -5.51, rol: 2.98, yaw: 148.57, acc_x: 1948, acc_y: 1214, acc_z: 11982, gyr_x: 246, gyr_y: -62, gyr_z: 426, temp: 2384
+121.21568E 31.5882N 12.1m 4.7Km/H
+pit: -5.80, rol: 2.04, yaw: 145.23, acc_x: 2956, acc_y: 1082, acc_z: 17854, gyr_x: 298, gyr_y: 48, gyr_z: -337, temp: 2382
+121.21568E 31.5882N 11.8m 4.7Km/H
+pit: -6.39, rol: 2.98, yaw: 142.13, acc_x: 2516, acc_y: -740, acc_z: 13904, gyr_x: 72, gyr_y: -53, gyr_z: -341, temp: 2386
+121.21568E 31.5882N 11.6m 4.3Km/H
+pit: -5.64, rol: 2.41, yaw: 141.99, acc_x: 1170, acc_y: -1482, acc_z: 15260, gyr_x: -5, gyr_y: 4, gyr_z: -189, temp: 2381
+121.21568E 31.5882N 11.0m 4.3Km/H
+pit: -5.41, rol: 1.49, yaw: 142.52, acc_x: 772, acc_y: 2046, acc_z: 9422, gyr_x: -210, gyr_y: 180, gyr_z: 561, temp: 2382
+121.21568E 31.5882N 11.1m 4.3Km/H
+pit: -6.21, rol: -0.17, yaw: 142.95, acc_x: 2016, acc_y: -214, acc_z: 16460, gyr_x: 175, gyr_y: -240, gyr_z: -64, temp: 2382
+121.21569E 31.5882N 11.1m 4.3Km/H
+pit: -7.32, rol: -0.82, yaw: 145.00, acc_x: 3514, acc_y: -1132, acc_z: 13594, gyr_x: -106, gyr_y: -265, gyr_z: -518, temp: 2385
+121.21568E 31.5882N 10.6m 4.3Km/H
+pit: -7.60, rol: 0.46, yaw: 147.72, acc_x: 3188, acc_y: -818, acc_z: 13234, gyr_x: 228, gyr_y: 241, gyr_z: -533, temp: 2381
+121.21570E 31.5882N 11.6m 4.0Km/H
+pit: -6.18, rol: 2.11, yaw: 148.88, acc_x: -114, acc_y: -1222, acc_z: 17058, gyr_x: 99, gyr_y: -205, gyr_z: -15, temp: 2381
+121.21570E 31.5882N 10.4m 4.0Km/H
+pit: -5.63, rol: 4.00, yaw: 147.56, acc_x: 630, acc_y: -440, acc_z: 10496, gyr_x: -337, gyr_y: -25, gyr_z: 478, temp: 2382
+121.21571E 31.5882N 10.4m 4.0Km/H
+pit: -6.03, rol: 4.68, yaw: 145.49, acc_x: 2004, acc_y: 2654, acc_z: 14152, gyr_x: 351, gyr_y: 208, gyr_z: 345, temp: 2381
+121.21571E 31.5882N 10.4m 4.0Km/H
+pit: -5.86, rol: 3.38, yaw: 144.20, acc_x: 2876, acc_y: 286, acc_z: 14502, gyr_x: 77, gyr_y: -190, gyr_z: -403, temp: 2378
+121.21570E 31.5882N 10.2m 4.0Km/H
+pit: -6.38, rol: 4.20, yaw: 141.08, acc_x: 2738, acc_y: -270, acc_z: 10584, gyr_x: 346, gyr_y: 43, gyr_z: -628, temp: 2381
+121.21572E 31.5882N 10.4m 4.7Km/H
+pit: -6.81, rol: 4.14, yaw: 139.21, acc_x: 940, acc_y: -2124, acc_z: 14892, gyr_x: 133, gyr_y: 74, gyr_z: -23, temp: 2380
+121.21572E 31.5882N 241.0m 4.7Km/H
+pit: -6.96, rol: 3.23, yaw: 138.87, acc_x: 608, acc_y: -1334, acc_z: 13228, gyr_x: -124, gyr_y: -36, gyr_z: 282, temp: 2378
+121.21573E 31.5882N 3103.5m 4.7Km/H
+pit: -6.40, rol: 2.64, yaw: 138.33, acc_x: 2012, acc_y: 2008, acc_z: 13694, gyr_x: 230, gyr_y: 61, gyr_z: 384, temp: 2382
+121.21573E 31.5882N 10.8m 4.7Km/H
+pit: -4.31, rol: 0.42, yaw: 141.47, acc_x: 1328, acc_y: 1022, acc_z: 12106, gyr_x: -312, gyr_y: 195, gyr_z: -206, temp: 2382
+121.21573E 31.5882N 10.6m 4.9Km/H
+pit: -3.08, rol: -0.40, yaw: 144.99, acc_x: 2462, acc_y: 1520, acc_z: 14364, gyr_x: 39, gyr_y: 6, gyr_z: -180, temp: 2381
+121.21573E 31.5882N 10.0m 4.9Km/H
+pit: -3.36, rol: 0.44, yaw: 147.32, acc_x: 18, acc_y: -322, acc_z: 13536, gyr_x: 50, gyr_y: 97, gyr_z: 67, temp: 2382
+121.21574E 31.5881N 9.5m 4.9Km/H
+pit: -4.75, rol: 1.63, yaw: 147.24, acc_x: 1754, acc_y: 1372, acc_z: 10290, gyr_x: -109, gyr_y: -49, gyr_z: 164, temp: 2381
+121.21574E 31.5881N 9.5m 4.9Km/H
+pit: -6.06, rol: 0.26, yaw: 145.91, acc_x: 830, acc_y: 1746, acc_z: 14664, gyr_x: 135, gyr_y: 208, gyr_z: -179, temp: 2380
+121.21574E 1.5881N 9.3m 4.9Km/H
+pit: -7.83, rol: -0.68, yaw: 143.05, acc_x: 2384, acc_y: -1018, acc_z: 14950, gyr_x: -298, gyr_y: -67, gyr_z: -268, temp: 2386
+121.21575E 31.5881N 9.1m 2.6Km/H
+pit: -6.87, rol: 2.79, yaw: 143.00, acc_x: 904, acc_y: 1754, acc_z: 13256, gyr_x: 165, gyr_y: -137, gyr_z: 220, temp: 2432
+121.21575E 31.5881N 8.7m 2.6Km/H
+pit: -5.72, rol: 1.97, yaw: 132.98, acc_x: 1130, acc_y: 2270, acc_z: 14488, gyr_x: 210, gyr_y: -127, gyr_z: 78, temp: 2382
+121.21575E 31.5881N 8.6m 2.6Km/H
+pit: -6.33, rol: 1.91, yaw: 135.12, acc_x: 3052, acc_y: -1038, acc_z: 14678, gyr_x: 7, gyr_y: 43, gyr_z: -319, temp: 2384
+121.21575E 31.5881N 9.1m 3.1Km/H
+pit: -6.04, rol: 0.60, yaw: 137.26, acc_x: 1410, acc_y: 828, acc_z: 10608, gyr_x: -278, gyr_y: 112, gyr_z: -269, temp: 2385
+121.21575E 31.5881N 8.0m 3.1Km/H
+pit: -5.92, rol: -1.40, yaw: 139.70, acc_x: 1558, acc_y: 26, acc_z: 15380, gyr_x: 42, gyr_y: -38, gyr_z: -34, temp: 2383
+121.21576E 31.5881N 3103.5m 3.1Km/H
+pit: -6.99, rol: -0.53, yaw: 141.45, acc_x: -418, acc_y: -2070, acc_z: 13280, gyr_x: -281, gyr_y: -38, gyr_z: 371, temp: 2381
+121.21576E 31.5881N 8.4m 3.1Km/H
+pit: -6.68, rol: 1.30, yaw: 141.15, acc_x: 2720, acc_y: 488, acc_z: 14576, gyr_x: 340, gyr_y: 223, gyr_z: 2, temp: 2387
+121.21577E 31.5882N 8.3m 6.6Km/H
+pit: -6.41, rol: 3.28, yaw: 140.22, acc_x: 2908, acc_y: -566, acc_z: 13602, gyr_x: -147, gyr_y: 213, gyr_z: 28, temp: 2386
+121.21577E 31.5882N 8.4m 6.6Km/H
+pit: -6.41, rol: 3.02, yaw: 138.84, acc_x: 2104, acc_y: -716, acc_z: 13210, gyr_x: 131, gyr_y: -78, gyr_z: -94, temp: 2383
+121.21577E 31.5882N 8.4m 6.6Km/H
+pit: -5.91, rol: 1.37, yaw: 137.80, acc_x: 1108, acc_y: -6, acc_z: 16614, gyr_x: 209, gyr_y: -65, gyr_z: 330, temp: 2387
+121.21577E 31.5882N 8.3m 6.6Km/H
+pit: -6.45, rol: 1.89, yaw: 153.69, acc_x: 1714, acc_y: 580, acc_z: 11160, gyr_x: 169, gyr_y: -55, gyr_z: 150, temp: 2389
+121.21577E 31.5883N 13.0m 7.8Km/H
+pit: -6.11, rol: 2.19, yaw: 155.46, acc_x: 792, acc_y: -562, acc_z: 13300, gyr_x: -148, gyr_y: -112, gyr_z: -58, temp: 2389
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -6.34, rol: 1.22, yaw: 156.25, acc_x: 1478, acc_y: 1904, acc_z: 13824, gyr_x: 221, gyr_y: -126, gyr_z: 101, temp: 2386
+121.21577E 31.5883N 196.0m 7.8Km/H
+pit: -6.76, rol: -0.40, yaw: 156.81, acc_x: 2602, acc_y: 1908, acc_z: 18410, gyr_x: 77, gyr_y: -181, gyr_z: -359, temp: 2386
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -7.09, rol: 0.41, yaw: 157.88, acc_x: 1796, acc_y: 1610, acc_z: 10080, gyr_x: -54, gyr_y: 163, gyr_z: -239, temp: 2386
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -6.68, rol: 2.55, yaw: 158.72, acc_x: 592, acc_y: 1316, acc_z: 13764, gyr_x: -187, gyr_y: 72, gyr_z: 48, temp: 2387
+121.21577E 31.5883N 8.5m 7.8Km/H
+pit: -5.60, rol: 4.47, yaw: 157.49, acc_x: 1434, acc_y: 1478, acc_z: 10510, gyr_x: 134, gyr_y: -97, gyr_z: -19, temp: 2388
+121.21577E 31.5883N 196.0m 7.8Km/H
+pit: -5.51, rol: 5.51, yaw: 155.15, acc_x: 778, acc_y: 2902, acc_z: 14520, gyr_x: 213, gyr_y: 176, gyr_z: -330, temp: 2386
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -5.73, rol: 4.65, yaw: 152.32, acc_x: 1498, acc_y: -356, acc_z: 14286, gyr_x: -124, gyr_y: -120, gyr_z: -144, temp: 2386
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -4.87, rol: 3.23, yaw: 150.69, acc_x: 844, acc_y: 340, acc_z: 16440, gyr_x: 127, gyr_y: -330, gyr_z: 277, temp: 2386
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -4.51, rol: 4.04, yaw: 149.29, acc_x: 1892, acc_y: -224, acc_z: 12618, gyr_x: -262, gyr_y: 13, gyr_z: 54, temp: 2388
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -4.19, rol: 3.36, yaw: 149.70, acc_x: 906, acc_y: 2432, acc_z: 13224, gyr_x: 159, gyr_y: 160, gyr_z: 102, temp: 2388
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -4.41, rol: 2.98, yaw: 150.89, acc_x: 3410, acc_y: 88, acc_z: 16842, gyr_x: 2, gyr_y: -30, gyr_z: -374, temp: 2386
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -4.60, rol: 2.81, yaw: 151.20, acc_x: 1634, acc_y: -1988, acc_z: 15294, gyr_x: 117, gyr_y: -92, gyr_z: 105, temp: 2385
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -5.19, rol: 2.04, yaw: 150.89, acc_x: 598, acc_y: -346, acc_z: 14716, gyr_x: 51, gyr_y: 91, gyr_z: 121, temp: 2388
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -4.48, rol: 5.48, yaw: 147.69, acc_x: 2208, acc_y: -244, acc_z: 14530, gyr_x: -36, gyr_y: -99, gyr_z: -142, temp: 2388
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -4.00, rol: 5.85, yaw: 146.25, acc_x: 2252, acc_y: -220, acc_z: 13316, gyr_x: 60, gyr_y: -132, gyr_z: -268, temp: 2387
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -4.56, rol: 6.93, yaw: 143.64, acc_x: 866, acc_y: 1276, acc_z: 18170, gyr_x: 11, gyr_y: 115, gyr_z: 309, temp: 2385
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -5.19, rol: 6.83, yaw: 141.71, acc_x: 570, acc_y: 964, acc_z: 13748, gyr_x: -80, gyr_y: -32, gyr_z: 334, temp: 2386
+121.21577E 31.5883N 8.3m 7.8Km/H
+pit: -5.19, rol: 5.69, yaw: 141.56, acc_x: 680, acc_y: 5106, acc_z: 12720, gyr_x: 187, gyr_y: -6, gyr_z: 211, temp: 2387
+121.21606E 31.5887N 8.1m 7.8Km/H
+pit: -5.94, rol: 5.98, yaw: 139.67, acc_x: 1792, acc_y: 2844, acc_z: 10178, gyr_x: -172, gyr_y: 55, gyr_z: -334, temp: 2388
+121.21603E 31.5892N 3.0m 30.6Km/H
+pit: -6.44, rol: 6.03, yaw: 140.06, acc_x: 1596, acc_y: 1238, acc_z: 14024, gyr_x: 194, gyr_y: 5, gyr_z: -98, temp: 2386
+121.21603E 31.5892N 69.0m 30.6Km/H
+pit: -5.89, rol: 5.98, yaw: 142.14, acc_x: 944, acc_y: 1854, acc_z: 15400, gyr_x: -48, gyr_y: -76, gyr_z: 267, temp: 2386
+121.21603E 31.5892N 3.2m 30.6Km/H
+pit: -4.60, rol: 4.99, yaw: 144.21, acc_x: 1314, acc_y: 1236, acc_z: 9692, gyr_x: -108, gyr_y: -7, gyr_z: 152, temp: 2388
+121.21604E 31.5895N 1.1m 30.6Km/H
+pit: -5.05, rol: 4.19, yaw: 146.52, acc_x: 306, acc_y: 374, acc_z: 12896, gyr_x: -166, gyr_y: 194, gyr_z: 326, temp: 2392
+121.21591E 31.5891N 1.2m 30.6Km/H
+pit: -5.21, rol: 3.36, yaw: 147.17, acc_x: 888, acc_y: 244, acc_z: 16372, gyr_x: 212, gyr_y: -70, gyr_z: -2, temp: 2394
+121.21589E 31.5890N 107.8m 29.6Km/H
+pit: -4.32, rol: 4.57, yaw: 149.06, acc_x: 956, acc_y: -602, acc_z: 13478, gyr_x: 185, gyr_y: -266, gyr_z: 130, temp: 2391
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -3.47, rol: 5.83, yaw: 148.66, acc_x: 702, acc_y: 2732, acc_z: 11268, gyr_x: 157, gyr_y: -142, gyr_z: 94, temp: 2392
+121.21589E 31.5890N 13.0m 29.6Km/H
+pit: -3.66, rol: 5.97, yaw: 147.38, acc_x: 1426, acc_y: 742, acc_z: 15660, gyr_x: 139, gyr_y: 139, gyr_z: -167, temp: 2397
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -4.13, rol: 5.50, yaw: 145.25, acc_x: 3072, acc_y: 150, acc_z: 13018, gyr_x: 79, gyr_y: 47, gyr_z: -359, temp: 2393
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -3.87, rol: 4.57, yaw: 143.80, acc_x: 2056, acc_y: 1846, acc_z: 12438, gyr_x: 2, gyr_y: 31, gyr_z: -278, temp: 2395
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -4.16, rol: 5.42, yaw: 141.89, acc_x: 972, acc_y: 684, acc_z: 16118, gyr_x: -27, gyr_y: -186, gyr_z: -20, temp: 2394
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -4.69, rol: 5.53, yaw: 141.52, acc_x: 906, acc_y: -1004, acc_z: 13242, gyr_x: 176, gyr_y: -238, gyr_z: 83, temp: 2395
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -5.83, rol: 5.20, yaw: 142.13, acc_x: 1382, acc_y: 1816, acc_z: 12600, gyr_x: -22, gyr_y: -19, gyr_z: -53, temp: 2395
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -6.05, rol: 3.97, yaw: 142.88, acc_x: 2466, acc_y: 444, acc_z: 15602, gyr_x: 116, gyr_y: 24, gyr_z: -340, temp: 2396
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -7.41, rol: 3.56, yaw: 143.65, acc_x: 2366, acc_y: 982, acc_z: 12612, gyr_x: -27, gyr_y: -116, gyr_z: -214, temp: 2394
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -7.48, rol: 4.19, yaw: 131.84, acc_x: 2014, acc_y: 242, acc_z: 14306, gyr_x: -56, gyr_y: -22, gyr_z: -86, temp: 2398
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -7.68, rol: 4.25, yaw: 131.81, acc_x: 1790, acc_y: 686, acc_z: 13630, gyr_x: -6, gyr_y: -21, gyr_z: -32, temp: 2397
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -7.94, rol: 3.88, yaw: 131.96, acc_x: 1798, acc_y: 820, acc_z: 13492, gyr_x: 76, gyr_y: 24, gyr_z: -40, temp: 2396
+121.21589E 31.5890N 7.0m 29.6Km/H
+pit: -8.09, rol: 3.49, yaw: 131.74, acc_x: 1492, acc_y: 1378, acc_z: 12288, gyr_x: 78, gyr_y: 48, gyr_z: -57, temp: 2397
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -7.79, rol: 3.11, yaw: 131.82, acc_x: 1982, acc_y: 1252, acc_z: 13924, gyr_x: 10, gyr_y: 8, gyr_z: -30, temp: 2395
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -7.66, rol: 2.88, yaw: 131.95, acc_x: 1892, acc_y: 1488, acc_z: 13330, gyr_x: 42, gyr_y: 13, gyr_z: -46, temp: 2398
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -7.65, rol: 3.18, yaw: 131.90, acc_x: 2228, acc_y: 396, acc_z: 14026, gyr_x: 112, gyr_y: 101, gyr_z: 136, temp: 2400
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -7.34, rol: 3.64, yaw: 131.92, acc_x: 1666, acc_y: 1240, acc_z: 13890, gyr_x: 22, gyr_y: 253, gyr_z: 152, temp: 2399
+121.21589E 31.5890N 13.0m 29.6Km/H
+pit: -7.16, rol: 3.95, yaw: 131.89, acc_x: 1182, acc_y: 398, acc_z: 13386, gyr_x: -203, gyr_y: -245, gyr_z: -46, temp: 2401
+121.21589E 31.5890N 1.0m 29.6Km/H
+pit: -6.96, rol: 4.31, yaw: 131.79, acc_x: 2288, acc_y: -194, acc_z: 14294, gyr_x: 78, gyr_y: 130, gyr_z: 54, temp: 2399
+121.21585E 31.5890N 1.0m 29.6Km/H
+pit: -7.18, rol: 4.57, yaw: 131.61, acc_x: 1616, acc_y: 444, acc_z: 13896, gyr_x: 30, gyr_y: 14, gyr_z: -3, temp: 2400
+121.21586E 31.5888N 1.0m 29.2Km/H
+pit: -7.15, rol: 4.72, yaw: 131.61, acc_x: 1116, acc_y: 778, acc_z: 13296, gyr_x: -38, gyr_y: -50, gyr_z: -51, temp: 2400
+121.21587E 31.5887N 1.0m 29.2Km/H
+pit: -7.07, rol: 4.98, yaw: 131.52, acc_x: 1478, acc_y: 924, acc_z: 13136, gyr_x: 89, gyr_y: 87, gyr_z: -6, temp: 2403

@@ -1,0 +1,1484 @@
+
+[2024-12-19 21:11:31.804]
+RX：UTC Time: 2024-12-19 13:11:29.600
+Position: 121.20542'E 31.5919'N
+Altitude: 3.7m
+Speed: 3.2Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 0 0 0 0 0 0
+PDOP: 3.3
+HDOP: 1.6
+VDOP: 2.9
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:33.172]
+RX：UTC Time: 2024-12-19 13:11:32.000
+Position: 121.20542'E 31.5919'N
+Altitude: 7.6m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:34.402]
+RX：UTC Time: 2024-12-19 13:11:33.600
+Position: 121.20542'E 31.5919'N
+Altitude: 318.4m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 10
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:35.795]
+RX：UTC Time: 2024-12-19 13:11:34.800
+Position: 121.20542'E 31.5919'N
+Altitude: 7.6m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 10
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:37.014]
+RX：UTC Time: 2024-12-19 13:11:36.000
+Position: 121.20542'E 31.5919'N
+Altitude: 7.6m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 10
+Fix type: 3D
+Satellite ID: 3 6 14 19 196 0 0 0 0 0
+PDOP: 2.6
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:38.377]
+RX：UTC Time: 2024-12-19 13:11:37.400
+Position: 121.20542'E 31.5919'N
+Altitude: 7.6m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:39.586]
+RX：UTC Time: 2024-12-19 13:11:37.400
+Position: 121.20542'E 31.5919'N
+Altitude: 7.6m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:41.024]
+RX：UTC Time: 2024-12-19 13:11:40.000
+Position: 121.20542'E 31.5919'N
+Altitude: 15.5m
+Speed: 2.4Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:42.404]
+RX：UTC Time: 2024-12-19 13:11:41.400
+Position: 121.20542'E 31.5919'N
+Altitude: 15.9m
+Speed: 2.4Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:43.781]
+RX：UTC Time: 2024-12-19 13:11:42.800
+Position: 121.20542'E 31.5919'N
+Altitude: 16.2m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:45.027]
+RX：UTC Time: 2024-12-19 13:11:44.000
+Position: 121.20542'E 31.5919'N
+Altitude: 16.2m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:46.387]
+RX：UTC Time: 2024-12-19 13:11:45.400
+Position: 121.20542'E 31.5919'N
+Altitude: 17.4m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:47.782]
+RX：UTC Time: 2024-12-19 13:11:46.800
+Position: 121.20541'E 31.5918'N
+Altitude: 17.0m
+Speed: 2.5Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:49.019]
+RX：UTC Time: 2024-12-19 13:11:48.000
+Position: 121.20541'E 31.5917'N
+Altitude: 16.5m
+Speed: 3.6Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:50.573]
+RX：UTC Time: 2024-12-19 13:11:49.400
+Position: 121.20541'E 31.5916'N
+Altitude: 15.3m
+Speed: 3.6Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:51.795]
+RX：UTC Time: 2024-12-19 13:11:49.400
+Position: 121.20541'E 31.5916'N
+Altitude: 13.1m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.2
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:53.032]
+RX：UTC Time: 2024-12-19 13:11:52.000
+Position: 121.20541'E 31.5916'N
+Altitude: 10.5m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 207 210 229 230 240 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:54.390]
+RX：UTC Time: 2024-12-19 13:11:53.400
+Position: 121.20541'E 31.5916'N
+Altitude: 10.5m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:55.785]
+RX：UTC Time: 2024-12-19 13:11:54.800
+Position: 121.20541'E 31.5915'N
+Altitude: 6.2m
+Speed: 1.8Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:57.036]
+RX：UTC Time: 2024-12-19 13:11:56.000
+Position: 121.20541'E 31.5914'N
+Altitude: 6.6m
+Speed: 3.9Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:58.579]
+RX：UTC Time: 2024-12-19 13:11:57.400
+Position: 121.20541'E 31.5913'N
+Altitude: 6.9m
+Speed: 3.9Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:11:59.802]
+RX：UTC Time: 2024-12-19 13:11:57.400
+Position: 121.20541'E 31.5913'N
+Altitude: 6.6m
+Speed: 2.7Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:01.059]
+RX：UTC Time: 2024-12-19 13:12:00.000
+Position: 121.20541'E 31.5912'N
+Altitude: 6.8m
+Speed: 3.3Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 207 210 229 230 240 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:02.571]
+RX：UTC Time: 2024-12-19 13:12:01.400
+Position: 121.20541'E 31.5911'N
+Altitude: 6.6m
+Speed: 3.3Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:03.806]
+RX：UTC Time: 2024-12-19 13:12:01.600
+Position: 121.20541'E 31.5910'N
+Altitude: 6.5m
+Speed: 3.3Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:04.956]
+RX：UTC Time: 2024-12-19 13:12:03.000
+Position: 121.20541'E 31.5909'N
+Altitude: 6.9m
+Speed: 3.3Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 207 210 229 230 240 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:06.187]
+RX：UTC Time: 2024-12-19 13:12:05.000
+Position: 121.20541'E 31.5908'N
+Altitude: 9.4m
+Speed: 3.8Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:07.619]
+RX：UTC Time: 2024-12-19 13:12:06.600
+Position: 121.20541'E 31.5907'N
+Altitude: 11.1m
+Speed: 3.9Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:09.055]
+RX：UTC Time: 2024-12-19 13:12:08.000
+Position: 121.20541'E 31.5906'N
+Altitude: 11.7m
+Speed: 3.7Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:10.380]
+RX：UTC Time: 2024-12-19 13:12:09.400
+Position: 121.20541'E 31.5905'N
+Altitude: 13.2m
+Speed: 3.6Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:11.596]
+RX：UTC Time: 2024-12-19 13:12:09.400
+Position: 121.20541'E 31.5905'N
+Altitude: 15.9m
+Speed: 1.9Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:12.969]
+RX：UTC Time: 2024-12-19 13:12:11.000
+Position: 121.20541'E 31.5904'N
+Altitude: 16.3m
+Speed: 3.3Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:14.183]
+RX：UTC Time: 2024-12-19 13:12:13.000
+Position: 121.20541'E 31.5902'N
+Altitude: 16.2m
+Speed: 3.1Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:15.393]
+RX：UTC Time: 2024-12-19 13:12:13.200
+Position: 121.20541'E 31.5902'N
+Altitude: 16.9m
+Speed: 3.1Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:16.795]
+RX：UTC Time: 2024-12-19 13:12:15.800
+Position: 121.20541'E 31.5900'N
+Altitude: 18.5m
+Speed: 3.3Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:18.079]
+RX：UTC Time: 2024-12-19 13:12:17.000
+Position: 121.20541'E 31.5898'N
+Altitude: 19.1m
+Speed: 3.8Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:19.410]
+RX：UTC Time: 2024-12-19 13:12:18.400
+Position: 121.20541'E 31.5897'N
+Altitude: 20.6m
+Speed: 3.6Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:20.785]
+RX：UTC Time: 2024-12-19 13:12:19.800
+Position: 121.20541'E 31.5896'N
+Altitude: 21.6m
+Speed: 3.6Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:22.064]
+RX：UTC Time: 2024-12-19 13:12:21.000
+Position: 121.20541'E 31.5895'N
+Altitude: 22.8m
+Speed: 3.4Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:23.368]
+RX：UTC Time: 2024-12-19 13:12:22.400
+Position: 121.20541'E 31.5894'N
+Altitude: 23.1m
+Speed: 3.2Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 17 19 196 0 0 0 0 0 0
+PDOP: 2.9
+HDOP: 1.2
+VDOP: 2.6
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:24.584]
+RX：UTC Time: 2024-12-19 13:12:22.600
+Position: 121.20541'E 31.5894'N
+Altitude: 24.5m
+Speed: 3.4Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:26.073]
+RX：UTC Time: 2024-12-19 13:12:25.000
+Position: 121.20542'E 31.5892'N
+Altitude: 25.8m
+Speed: 3.7Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:27.391]
+RX：UTC Time: 2024-12-19 13:12:26.400
+Position: 121.20542'E 31.5890'N
+Altitude: 28.1m
+Speed: 3.4Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:28.822]
+RX：UTC Time: 2024-12-19 13:12:27.800
+Position: 121.20542'E 31.5889'N
+Altitude: 29.3m
+Speed: 3.4Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:30.178]
+RX：UTC Time: 2024-12-19 13:12:29.000
+Position: 121.20542'E 31.5888'N
+Altitude: 30.0m
+Speed: 3.3Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:31.380]
+RX：UTC Time: 2024-12-19 13:12:30.000
+Position: 121.20542'E 31.5887'N
+Altitude: 34.0m
+Speed: 3.2Km/H
+Fix quality: Unavailable
+Satellites Used: 0
+Fix type: 3D
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:32.597]
+RX：UTC Time: 2024-12-19 13:12:30.600
+Position: 121.20542'E 31.5887'N
+Altitude: 30.0m
+Speed: 3.4Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:34.091]
+RX：UTC Time: 2024-12-19 13:12:33.000
+Position: 121.20541'E 31.5885'N
+Altitude: 30.0m
+Speed: 2.9Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:35.385]
+RX：UTC Time: 2024-12-19 13:12:34.400
+Position: 121.20541'E 31.5884'N
+Altitude: 28.7m
+Speed: 3.1Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:36.605]
+RX：UTC Time: 2024-12-19 13:12:34.400
+Position: 121.20541'E 31.5884'N
+Altitude: 27.6m
+Speed: 3.4Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:37.954]
+RX：UTC Time: 2024-12-19 13:12:36.000
+Position: 121.20541'E 31.5882'N
+Altitude: 26.2m
+Speed: 3.3Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:39.182]
+RX：UTC Time: 2024-12-19 13:12:38.000
+Position: 121.20541'E 31.5880'N
+Altitude: 24.4m
+Speed: 3.6Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:40.395]
+RX：UTC Time: 2024-12-19 13:12:38.000
+Position: 121.20541'E 31.5880'N
+Altitude: 38.0m
+Speed: 3.6Km/H
+Fix quality: Unavailable
+Satellites Used: 0
+Fix type: 3D
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:41.598]
+RX：UTC Time: 2024-12-19 13:12:39.600
+Position: 121.20541'E 31.5879'N
+Altitude: 26.4m
+Speed: 3.7Km/H
+Fix quality: SPS mode
+Satellites Used: 11
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:43.105]
+RX：UTC Time: 2024-12-19 13:12:42.000
+Position: 121.20541'E 31.5876'N
+Altitude: 27.1m
+Speed: 3.8Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:44.393]
+RX：UTC Time: 2024-12-19 13:12:43.400
+Position: 121.20541'E 31.5875'N
+Altitude: 28.3m
+Speed: 3.4Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:45.829]
+RX：UTC Time: 2024-12-19 13:12:44.800
+Position: 121.20541'E 31.5874'N
+Altitude: 27.3m
+Speed: 3.2Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:47.181]
+RX：UTC Time: 2024-12-19 13:12:46.000
+Position: 121.20541'E 31.5873'N
+Altitude: 28.0m
+Speed: 3.1Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:48.399]
+RX：UTC Time: 2024-12-19 13:12:47.000
+Position: 121.20541'E 31.5872'N
+Altitude: 0.0m
+Speed: 3.5Km/H
+Fix quality: SPS mode
+Satellites Used: 1
+Fix type: 3D
+Satellite ID: 3
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:49.787]
+RX：UTC Time: 2024-12-19 13:12:48.800
+Position: 121.20541'E 31.5871'N
+Altitude: 28.8m
+Speed: 3.7Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:51.101]
+RX：UTC Time: 2024-12-19 13:12:50.000
+Position: 121.20542'E 31.5870'N
+Altitude: 30.0m
+Speed: 3.7Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 17 19 196 0 0 0 0 0 0 0
+PDOP: 2.9
+HDOP: 1.2
+VDOP: 2.6
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:52.407]
+RX：UTC Time: 2024-12-19 13:12:51.400
+Position: 121.20542'E 31.5868'N
+Altitude: 30.9m
+Speed: 4.0Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:53.812]
+RX：UTC Time: 2024-12-19 13:12:52.800
+Position: 121.20542'E 31.5867'N
+Altitude: 31.2m
+Speed: 3.0Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:55.177]
+RX：UTC Time: 2024-12-19 13:12:54.000
+Position: 121.20542'E 31.5866'N
+Altitude: 29.4m
+Speed: 3.8Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:56.392]
+RX：UTC Time: 2024-12-19 13:12:55.000
+Position: 121.20542'E 31.5865'N
+Altitude: 205.0m
+Speed: 3.5Km/H
+Fix quality: Unavailable
+Satellites Used: 0
+Fix type: 3D
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:57.591]
+RX：UTC Time: 2024-12-19 13:12:55.600
+Position: 121.20542'E 31.5865'N
+Altitude: 32.0m
+Speed: 3.4Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:12:59.103]
+RX：UTC Time: 2024-12-19 13:12:58.000
+Position: 121.20542'E 31.5863'N
+Altitude: 32.1m
+Speed: 2.9Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:00.598]
+RX：UTC Time: 2024-12-19 13:12:59.400
+Position: 121.20542'E 31.5861'N
+Altitude: 31.1m
+Speed: 3.9Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:02.087]
+RX：UTC Time: 2024-12-19 13:13:01.000
+Position: 121.20541'E 31.5860'N
+Altitude: 29.1m
+Speed: 3.6Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:03.584]
+RX：UTC Time: 2024-12-19 13:13:02.400
+Position: 121.20541'E 31.5858'N
+Altitude: 28.4m
+Speed: 4.0Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:04.812]
+RX：UTC Time: 2024-12-19 13:13:02.600
+Position: 121.20541'E 31.5858'N
+Altitude: 23.8m
+Speed: 3.7Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:06.186]
+RX：UTC Time: 2024-12-19 13:13:05.000
+Position: 121.20539'E 31.5856'N
+Altitude: 22.8m
+Speed: 3.3Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:07.390]
+RX：UTC Time: 2024-12-19 13:13:06.000
+Position: 121.20538'E 31.5855'N
+Altitude: 2.0m
+Speed: 3.9Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:08.802]
+RX：UTC Time: 2024-12-19 13:13:07.800
+Position: 121.20538'E 31.5853'N
+Altitude: 20.6m
+Speed: 3.6Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:10.096]
+RX：UTC Time: 2024-12-19 13:13:09.000
+Position: 121.20538'E 31.5852'N
+Altitude: 19.7m
+Speed: 3.7Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 207 210 229 230 240 3 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:11.573]
+RX：UTC Time: 2024-12-19 13:13:10.400
+Position: 121.20538'E 31.5851'N
+Altitude: 20.1m
+Speed: 3.8Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:12.803]
+RX：UTC Time: 2024-12-19 13:13:10.600
+Position: 121.20538'E 31.5850'N
+Altitude: 18.0m
+Speed: 3.4Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:14.103]
+RX：UTC Time: 2024-12-19 13:13:13.000
+Position: 121.20537'E 31.5848'N
+Altitude: 16.7m
+Speed: 3.6Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 207 210 229 230 240 3 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:15.380]
+RX：UTC Time: 2024-12-19 13:13:14.400
+Position: 121.20537'E 31.5847'N
+Altitude: 15.8m
+Speed: 3.7Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:16.593]
+RX：UTC Time: 2024-12-19 13:13:14.400
+Position: 121.20537'E 31.5847'N
+Altitude: 15.6m
+Speed: 3.8Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:18.094]
+RX：UTC Time: 2024-12-19 13:13:17.000
+Position: 121.20536'E 31.5844'N
+Altitude: 14.1m
+Speed: 4.0Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:19.587]
+RX：UTC Time: 2024-12-19 13:13:18.400
+Position: 121.20535'E 31.5843'N
+Altitude: 13.5m
+Speed: 4.2Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:20.810]
+RX：UTC Time: 2024-12-19 13:13:18.400
+Position: 121.20535'E 31.5843'N
+Altitude: 12.8m
+Speed: 3.6Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:22.177]
+RX：UTC Time: 2024-12-19 13:13:21.000
+Position: 121.20535'E 31.5840'N
+Altitude: 12.2m
+Speed: 4.6Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:23.401]
+RX：UTC Time: 2024-12-19 13:13:22.000
+Position: 121.20535'E 31.5839'N
+Altitude: 11.8m
+Speed: 4.0Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:24.826]
+RX：UTC Time: 2024-12-19 13:13:23.800
+Position: 121.20534'E 31.5838'N
+Altitude: 10.4m
+Speed: 3.4Km/H
+Fix quality: SPS mode
+Satellites Used: 13
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0 25
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:26.188]
+RX：UTC Time: 2024-12-19 13:13:25.000
+Position: 121.20534'E 31.5837'N
+Altitude: 9.8m
+Speed: 3.5Km/H
+Fix quality: SPS mode
+Satellites Used: 13
+Fix type: 3D
+Satellite ID: 3 6 14 17 19 196 0 0 0 0 0 0 23
+PDOP: 2.3
+HDOP: 1.0
+VDOP: 2.1
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:27.381]
+RX：UTC Time: 2024-12-19 13:13:26.000
+Position: 121.20534'E 31.5836'N
+Altitude: 42.0m
+Speed: 2.8Km/H
+Fix quality: SPS mode
+Satellites Used: 0
+Fix type: 3D
+PDOP: 2.3
+HDOP: 1.0
+VDOP: 2.1
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:28.577]
+RX：UTC Time: 2024-12-19 13:13:26.600
+Position: 121.20534'E 31.5835'N
+Altitude: 9.6m
+Speed: 2.6Km/H
+Fix quality: SPS mode
+Satellites Used: 13
+Fix type: 3D
+Satellite ID: 3 6 14 19 196 0 0 0 0 0 0 0 24
+PDOP: 2.4
+HDOP: 1.0
+VDOP: 2.1
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:29.830]
+RX：UTC Time: 2024-12-19 13:13:28.000
+Position: 121.20534'E 31.5835'N
+Altitude: 9.2m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 12
+Fix type: 3D
+Satellite ID: 6 14 19 196 0 0 0 0 0 0 0 0
+PDOP: 2.9
+HDOP: 0.0
+VDOP: 3103.5
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:31.180]
+RX：UTC Time: 2024-12-19 13:13:30.000
+Position: 121.20534'E 31.5835'N
+Altitude: 9.7m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 10
+Fix type: 3D
+Satellite ID: 3 6 14 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:32.397]
+RX：UTC Time: 2024-12-19 13:13:31.000
+Position: 121.20534'E 31.5835'N
+Altitude: 35.0m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 10
+Fix type: 3D
+Satellite ID: 3 6 14 19 196 0 0 0 0 0
+PDOP: 2.5
+HDOP: 1.1
+VDOP: 2.3
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+
+
+[2024-12-19 21:13:33.840]
+RX：UTC Time: 2024-12-19 13:13:32.800
+Position: 121.20534'E 31.5835'N
+Altitude: 9.4m
+Speed: 0.0Km/H
+Fix quality: SPS mode
+Satellites Used: 13
+Fix type: 3D
+Satellite ID: 6 14 17 19 196 0 0 0 0 0 0 0 23
+PDOP: 2.3
+HDOP: 1.1
+VDOP: 2.1
+Number of GPS visible satellite: 0
+Number of Beidou visible satellite: 0
+

@@ -1,0 +1,6 @@
+.DS_Store
+
+# Claude local/config files
+.claude/
+.claude*
+CLAUDE*

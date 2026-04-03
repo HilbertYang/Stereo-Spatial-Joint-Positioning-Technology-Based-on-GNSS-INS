@@ -1,0 +1,128 @@
+pit: -1.15, rol: -5.06, yaw: -163.65, acc_x: 328, acc_y: -170, acc_z: 13862, gyr_x: 9, gyr_y: -6, gyr_z: 58, nanm 2772
+121.65262'E 38.92981'N 36.3m 0.0Km/H
+pit: 0.29, rol: -4.19, yaw: -147.11, acc_x: -162, acc_y: -224, acc_z: 13862, gyr_x: 121, gyr_y: -36, gyr_z: 248, nanm 2777
+121.65259'E 38.92977'N 42.7m 0.0Km/H
+pit: 0.47, rol: -6.15, yaw: -137.56, acc_x: 1064, acc_y: -538, acc_z: 13228, gyr_x: 81, gyr_y: 85, gyr_z: -33, nanm 2777
+121.65255'E 38.92971'N 97.1m 0.0Km/H
+pit: -0.22, rol: -7.05, yaw: -138.47, acc_x: 1572, acc_y: -1642, acc_z: 13268, gyr_x: 12, gyr_y: -16, gyr_z: -55, nanm 2776
+121.65255'E 38.92971'N 45.1m 0.0Km/H
+pit: -1.28, rol: -5.93, yaw: -144.15, acc_x: 352, acc_y: -3846, acc_z: 14114, gyr_x: -146, gyr_y: 234, gyr_z: 2, nanm 2777
+121.65254'E 38.92970'N 45.1m 0.0Km/H
+pit: -1.24, rol: -6.93, yaw: -145.09, acc_x: 1160, acc_y: -2530, acc_z: 14674, gyr_x: -1061, gyr_y: -82, gyr_z: -20, nanm 2776
+121.65254'E 38.92970'N 45.1m 0.0Km/H
+pit: -0.09, rol: -27.24, yaw: -130.44, acc_x: 1906, acc_y: -4974, acc_z: 13306, gyr_x: -47, gyr_y: 19, gyr_z: -3, nanm 2782
+121.65254'E 38.92970'N 45.1m 0.0Km/H
+pit: -3.69, rol: -27.03, yaw: -132.41, acc_x: 1472, acc_y: -4622, acc_z: 13418, gyr_x: -32, gyr_y: -6, gyr_z: 8, nanm 2783
+121.65254'E 38.92970'N 45.1m 0.0Km/H
+pit: -1.81, rol: -20.05, yaw: -124.83, acc_x: 362, acc_y: -4838, acc_z: 13560, gyr_x: 132, gyr_y: -47, gyr_z: -378, nanm 2788
+121.65225'E 38.92817'N 42.6m 0.0Km/H
+pit: -1.87, rol: -19.93, yaw: -124.86, acc_x: 1336, acc_y: -4452, acc_z: 13648, gyr_x: 200, gyr_y: 269, gyr_z: -20, nanm 2790
+121.65225'E 38.92817'N 42.6m 0.0Km/H
+pit: -1.40, rol: -14.59, yaw: -135.75, acc_x: 1568, acc_y: -2862, acc_z: 14948, gyr_x: 399, gyr_y: 462, gyr_z: -129, nanm 2793
+121.65225'E 38.92819'N 49.2m 0.0Km/H
+pit: -1.57, rol: -15.91, yaw: -136.28, acc_x: -1084, acc_y: -2714, acc_z: 12852, gyr_x: -584, gyr_y: -106, gyr_z: -343, nanm 2790
+121.65224'E 38.92820'N 41.5m 0.0Km/H
+pit: 2.86, rol: -15.64, yaw: -132.87, acc_x: -1290, acc_y: -1976, acc_z: 14184, gyr_x: -200, gyr_y: -282, gyr_z: 75, nanm 2792
+121.65222'E 38.92821'N 38.5m 0.0Km/H
+pit: 2.32, rol: -15.31, yaw: -131.35, acc_x: 634, acc_y: -3160, acc_z: 11866, gyr_x: 24, gyr_y: -34, gyr_z: 220, nanm 2796
+121.65221'E 38.92823'N 38.4m 0.0Km/H
+pit: 1.30, rol: -11.73, yaw: -103.33, acc_x: 476, acc_y: -2024, acc_z: 12570, gyr_x: -62, gyr_y: -32, gyr_z: -230, nanm 2797
+121.65216'E 38.92825'N 34.4m 0.0Km/H
+pit: 1.82, rol: -12.27, yaw: -105.11, acc_x: -526, acc_y: -692, acc_z: 13358, gyr_x: 148, gyr_y: -35, gyr_z: 32, nanm 2798
+121.65215'E 38.92825'N 33.9m 0.0Km/H
+pit: 2.91, rol: -13.10, yaw: -99.39, acc_x: 226, acc_y: -1974, acc_z: 15626, gyr_x: -35, gyr_y: -278, gyr_z: 115, nanm 2802
+121.65211'E 38.92827'N 18.3m 0.0Km/H
+pit: 2.71, rol: -12.45, yaw: -98.58, acc_x: 1224, acc_y: -1940, acc_z: 13104, gyr_x: -32, gyr_y: 222, gyr_z: 65, nanm 2806
+121.65210'E 38.92827'N 49.8m 0.0Km/H
+pit: -4.76, rol: -10.87, yaw: -90.64, acc_x: 158, acc_y: -360, acc_z: 11242, gyr_x: 73, gyr_y: 395, gyr_z: 30, nanm 2809
+121.65208'E 38.92834'N 3007.0m 0.0Km/H
+pit: -3.81, rol: -11.52, yaw: -90.97, acc_x: 848, acc_y: -2010, acc_z: 17314, gyr_x: -70, gyr_y: -272, gyr_z: 257, nanm 2809
+121.65206'E 38.92836'N 48.9m 0.0Km/H
+pit: -2.00, rol: -9.35, yaw: -81.01, acc_x: 498, acc_y: -120, acc_z: 13314, gyr_x: 54, gyr_y: 1, gyr_z: -318, nanm 2812
+121.65206'E 38.92845'N 41.1m 0.0Km/H
+pit: -2.00, rol: -9.00, yaw: -81.06, acc_x: -530, acc_y: -850, acc_z: 11554, gyr_x: -69, gyr_y: 341, gyr_z: -34, nanm 2813
+121.65206'E 38.92846'N 49.9m 0.0Km/H
+pit: 0.64, rol: -9.53, yaw: -75.24, acc_x: 188, acc_y: 96, acc_z: 12548, gyr_x: 80, gyr_y: -146, gyr_z: 38, nanm 2818
+121.65204'E 38.92852'N 44.2m 0.0Km/H
+pit: 1.43, rol: -9.02, yaw: -73.24, acc_x: 1204, acc_y: 138, acc_z: 14126, gyr_x: -270, gyr_y: 7, gyr_z: -292, nanm 2820
+121.65204'E 38.92852'N 41.4m 0.0Km/H
+pit: 0.78, rol: -4.25, yaw: -66.40, acc_x: 1526, acc_y: 534, acc_z: 15768, gyr_x: 223, gyr_y: 136, gyr_z: 43, nanm 2825
+121.65203'E 38.92854'N 38.7m 0.0Km/H
+pit: 0.67, rol: -3.60, yaw: -65.55, acc_x: 540, acc_y: 524, acc_z: 13986, gyr_x: -7, gyr_y: 1, gyr_z: 39, nanm 2828
+121.65203'E 38.92854'N 37.2m 0.0Km/H
+pit: -0.62, rol: -6.88, yaw: -47.92, acc_x: 1502, acc_y: 1930, acc_z: 13478, gyr_x: 56, gyr_y: -146, gyr_z: 196, nanm 2829
+121.65204'E 38.92856'N 32.3m 0.0Km/H
+pit: -0.03, rol: -6.77, yaw: -47.44, acc_x: 572, acc_y: 742, acc_z: 12270, gyr_x: -56, gyr_y: 131, gyr_z: 115, nanm 2832
+121.65204'E 38.92856'N 40.3m 0.0Km/H
+pit: -3.03, rol: -3.60, yaw: -48.03, acc_x: 2956, acc_y: -3100, acc_z: 13152, gyr_x: -69, gyr_y: 26, gyr_z: -363, nanm 2832
+121.65214'E 38.92862'N 54.9m 0.0Km/H
+pit: -4.01, rol: -2.92, yaw: -50.21, acc_x: 1380, acc_y: 1346, acc_z: 15350, gyr_x: 218, gyr_y: 150, gyr_z: 136, nanm 2832
+121.65215'E 38.92863'N 56.5m 0.0Km/H
+pit: -2.22, rol: -5.07, yaw: -36.07, acc_x: 1604, acc_y: 14, acc_z: 13100, gyr_x: -166, gyr_y: -351, gyr_z: -187, nanm 2837
+121.65215'E 38.92865'N 50.6m 0.0Km/H
+pit: -1.71, rol: -4.21, yaw: -35.13, acc_x: 492, acc_y: 958, acc_z: 10884, gyr_x: -19, gyr_y: 144, gyr_z: -27, nanm 2837
+121.65215'E 38.92867'N 48.5m 0.0Km/H
+pit: -2.97, rol: -4.78, yaw: -29.40, acc_x: 984, acc_y: 1744, acc_z: 15744, gyr_x: 180, gyr_y: 459, gyr_z: -226, nanm 2841
+121.65214'E 38.92868'N 47.6m 0.0Km/H
+pit: -3.17, rol: -5.22, yaw: -28.60, acc_x: 2326, acc_y: 986, acc_z: 12396, gyr_x: -305, gyr_y: -312, gyr_z: -199, nanm 2844
+121.65213'E 38.92869'N 44.7m 0.0Km/H
+pit: -2.22, rol: -1.96, yaw: -23.49, acc_x: 976, acc_y: 1424, acc_z: 11940, gyr_x: 148, gyr_y: 113, gyr_z: -56, nanm 2848
+121.65212'E 38.92872'N 42.1m 0.0Km/H
+pit: -1.41, rol: -3.13, yaw: -22.51, acc_x: 188, acc_y: -1170, acc_z: 18808, gyr_x: -312, gyr_y: -213, gyr_z: -289, nanm 2853
+121.65211'E 38.92873'N 41.3m 0.0Km/H
+pit: -1.99, rol: -2.26, yaw: -13.40, acc_x: 370, acc_y: 1420, acc_z: 10146, gyr_x: -27, gyr_y: -20, gyr_z: 44, nanm 2858
+121.65211'E 38.92875'N 44.2m 0.0Km/H
+pit: -2.44, rol: -2.68, yaw: -13.06, acc_x: 264, acc_y: 1726, acc_z: 15336, gyr_x: 215, gyr_y: 327, gyr_z: -93, nanm 2863
+121.65211'E 38.92877'N 32.7m 0.0Km/H
+pit: -3.89, rol: -3.27, yaw: -5.70, acc_x: -22, acc_y: 228, acc_z: 13748, gyr_x: -12, gyr_y: 111, gyr_z: -3, nanm 2866
+121.65203'E 38.92894'N 49.0m 0.0Km/H
+pit: -4.70, rol: -3.64, yaw: -5.16, acc_x: 1662, acc_y: 74, acc_z: 10864, gyr_x: 263, gyr_y: -66, gyr_z: 115, nanm 2869
+121.65202'E 38.92897'N 40.4m 0.0Km/H
+pit: -3.40, rol: 0.46, yaw: 51.52, acc_x: 2540, acc_y: -100, acc_z: 13508, gyr_x: -164, gyr_y: -301, gyr_z: -201, nanm 2905
+121.65166'E 38.92964'N 4.0m 0.0Km/H
+pit: -2.33, rol: -0.34, yaw: 51.18, acc_x: 1224, acc_y: 2160, acc_z: 12506, gyr_x: 28, gyr_y: -91, gyr_z: -39, nanm 2905
+121.65166'E 38.92964'N 41.9m 0.0Km/H
+pit: -4.20, rol: -1.33, yaw: 66.21, acc_x: 644, acc_y: 2320, acc_z: 12606, gyr_x: 69, gyr_y: 108, gyr_z: -29, nanm 2909
+121.65168'E 38.92967'N 43.9m 0.0Km/H
+pit: -3.43, rol: -1.20, yaw: 65.88, acc_x: 966, acc_y: -98, acc_z: 18200, gyr_x: -517, gyr_y: -337, gyr_z: -146, nanm 2913
+121.65167'E 38.92972'N 46.0m 0.0Km/H
+pit: -2.50, rol: -2.35, yaw: 69.67, acc_x: 652, acc_y: 388, acc_z: 14228, gyr_x: -268, gyr_y: -110, gyr_z: 268, nanm 2913
+121.65171'E 38.92980'N 40.3m 0.0Km/H
+pit: -2.96, rol: -2.15, yaw: 70.05, acc_x: 682, acc_y: 2004, acc_z: 9814, gyr_x: -139, gyr_y: -82, gyr_z: 114, nanm 2914
+121.65174'E 38.92984'N 40.5m 0.0Km/H
+pit: -3.45, rol: -1.89, yaw: 81.19, acc_x: 2382, acc_y: 838, acc_z: 15862, gyr_x: -270, gyr_y: -516, gyr_z: -84, nanm 2916
+121.65171'E 38.92984'N 48.4m 0.0Km/H
+pit: -5.49, rol: -3.58, yaw: 80.70, acc_x: 2154, acc_y: 1396, acc_z: 16236, gyr_x: 132, gyr_y: -110, gyr_z: 123, nanm 2915
+121.65171'E 38.92984'N 47.6m 0.0Km/H
+pit: -3.09, rol: -1.04, yaw: 95.70, acc_x: 1060, acc_y: 652, acc_z: 12072, gyr_x: -79, gyr_y: -27, gyr_z: 33, nanm 2918
+121.65163'E 38.92984'N 3004.7m 0.0Km/H
+pit: -3.71, rol: -0.86, yaw: 96.09, acc_x: 428, acc_y: 1944, acc_z: 16416, gyr_x: 204, gyr_y: 95, gyr_z: -176, nanm 2920
+121.65163'E 38.92984'N 43.0m 0.0Km/H
+pit: -6.40, rol: -2.69, yaw: 100.27, acc_x: 2286, acc_y: -716, acc_z: 19722, gyr_x: -306, gyr_y: -325, gyr_z: 162, nanm 2922
+121.65162'E 38.92991'N 47.3m 0.0Km/H
+pit: -4.09, rol: -2.39, yaw: 100.02, acc_x: 1030, acc_y: 1240, acc_z: 10844, gyr_x: 94, gyr_y: 52, gyr_z: 67, nanm 2919
+121.65161'E 38.92994'N 42.7m 0.0Km/H
+pit: -5.21, rol: -2.41, yaw: 110.27, acc_x: 1184, acc_y: 1992, acc_z: 16280, gyr_x: 245, gyr_y: 318, gyr_z: 263, nanm 2922
+121.65161'E 38.92997'N 49.1m 0.0Km/H
+pit: -5.85, rol: -2.84, yaw: 109.83, acc_x: 1330, acc_y: -486, acc_z: 13374, gyr_x: -14, gyr_y: 22, gyr_z: -160, nanm 2921
+121.65154'E 38.92997'N 0.0m 0.0Km/H
+pit: -2.19, rol: -0.36, yaw: 119.59, acc_x: 1334, acc_y: 3364, acc_z: 15560, gyr_x: 274, gyr_y: 157, gyr_z: 119, nanm 2920
+121.65148'E 38.92997'N 44.6m 0.0Km/H
+pit: -6.06, rol: -2.75, yaw: 128.90, acc_x: 1788, acc_y: -106, acc_z: 10670, gyr_x: 95, gyr_y: 26, gyr_z: 166, nanm 2922
+121.65143'E 38.92997'N 41.2m 0.0Km/H
+pit: -5.81, rol: -6.55, yaw: 146.66, acc_x: -84, acc_y: -2090, acc_z: 18794, gyr_x: -418, gyr_y: -265, gyr_z: 313, nanm 2918
+121.65141'E 38.92999'N 41.7m 0.0Km/H
+pit: -0.74, rol: -4.54, yaw: 151.10, acc_x: 830, acc_y: -1658, acc_z: 14202, gyr_x: -160, gyr_y: -88, gyr_z: -77, nanm 2920
+121.65134'E 38.92993'N 46.5m 0.0Km/H
+pit: 1.09, rol: -7.52, yaw: 173.80, acc_x: 390, acc_y: -146, acc_z: 14578, gyr_x: -79, gyr_y: -151, gyr_z: -21, nanm 2922
+121.65133'E 38.92984'N 30.4m 0.0Km/H
+pit: 0.08, rol: -5.67, yaw: -172.09, acc_x: 238, acc_y: 1352, acc_z: 13288, gyr_x: -30, gyr_y: -125, gyr_z: 79, nanm 2925
+121.65099'E 38.92840'N 48.2m 0.0Km/H
+pit: -0.23, rol: -5.48, yaw: -172.11, acc_x: 270, acc_y: -2058, acc_z: 18426, gyr_x: -185, gyr_y: -528, gyr_z: 151, nanm 2927
+121.65098'E 38.92841'N 44.6m 0.0Km/H
+pit: -0.68, rol: -7.53, yaw: -160.84, acc_x: -212, acc_y: 946, acc_z: 13630, gyr_x: 27, gyr_y: -745, gyr_z: -67, nanm 2926
+121.65096'E 38.92842'N 426.6m 0.0Km/H
+pit: 0.75, rol: -6.84, yaw: -160.24, acc_x: 52, acc_y: 2450, acc_z: 13656, gyr_x: -30, gyr_y: 85, gyr_z: 634, nanm 2928
+121.65095'E 38.92842'N 27.5m 0.0Km/H
+pit: -2.34, rol: -7.98, yaw: -81.08, acc_x: 1376, acc_y: -2586, acc_z: 12906, gyr_x: -288, gyr_y: -97, gyr_z: 27, nanm 2934
+121.65095'E 38.92847'N 54.6m 0.0Km/H

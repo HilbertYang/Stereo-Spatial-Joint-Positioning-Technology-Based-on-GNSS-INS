@@ -1,0 +1,679 @@
+
+pit: -1.15, rol: -5.06, yaw: -163.65, acc_x: 328, acc_y: -170, acc_z: 13862, gyr_x: 9, gyr_y: -6, gyr_z: 58, temp: 2772
+bd.bd.utc Time: 2024-07-15 12:56:28.800
+bd.position: 121.65262'E 38.92981'N
+bd.altitude: 136.3m
+Speed: 0.0Km/H
+
+
+
+pit: 0.29, rol: -4.19, yaw: -147.11, acc_x: -162, acc_y: -224, acc_z: 13862, gyr_x: 121, gyr_y: -36, gyr_z: 248, temp: 2777
+bd.bd.utc Time: 2024-07-15 12:56:32.800
+bd.position: 121.65259'E 38.92977'N
+bd.altitude: 142.7m
+Speed: 0.0Km/H
+
+
+pit: 0.47, rol: -6.15, yaw: -137.56, acc_x: 1064, acc_y: -538, acc_z: 13228, gyr_x: 81, gyr_y: 85, gyr_z: -33, temp: 2777
+bd.bd.utc Time: 2024-07-15 12:56:35.600
+bd.position: 121.65255'E 38.92971'N
+bd.altitude: 197.1m
+Speed: 0.0Km/H
+
+pit: -0.22, rol: -7.05, yaw: -138.47, acc_x: 1572, acc_y: -1642, acc_z: 13268, gyr_x: 12, gyr_y: -16, gyr_z: -55, temp: 2776
+bd.bd.utc Time: 2024-07-15 12:56:35.800
+bd.position: 121.65255'E 38.92971'N
+bd.altitude: 205.1m
+Speed: 0.0Km/H
+
+
+pit: -1.28, rol: -5.93, yaw: -144.15, acc_x: 352, acc_y: -3846, acc_z: 14114, gyr_x: -146, gyr_y: 234, gyr_z: 2, temp: 2777
+bd.bd.utc Time: 2024-07-15 12:56:39.600
+bd.position: 121.65254'E 38.92970'N
+bd.altitude: 205.1m
+Speed: 0.0Km/H
+
+pit: -1.24, rol: -6.93, yaw: -145.09, acc_x: 1160, acc_y: -2530, acc_z: 14674, gyr_x: -1061, gyr_y: -82, gyr_z: -20, temp: 2776
+bd.bd.utc Time: 2024-07-15 12:56:39.600
+bd.position: 121.65254'E 38.92970'N
+bd.altitude: 205.1m
+Speed: 0.0Km/H
+
+
+
+pit: -0.09, rol: -27.24, yaw: -130.44, acc_x: 1906, acc_y: -4974, acc_z: 13306, gyr_x: -47, gyr_y: 19, gyr_z: -3, temp: 2782
+bd.bd.utc Time: 2024-07-15 12:56:43.600
+bd.position: 121.65254'E 38.92970'N
+bd.altitude: 205.1m
+Speed: 0.0Km/H
+
+pit: -3.69, rol: -27.03, yaw: -132.41, acc_x: 1472, acc_y: -4622, acc_z: 13418, gyr_x: -32, gyr_y: -6, gyr_z: 8, temp: 2783
+bd.bd.utc Time: 2024-07-15 12:56:43.600
+bd.position: 121.65254'E 38.92970'N
+bd.altitude: 205.1m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:56:45.200
+bd.position: 121.65254'E 38.92970'N
+bd.altitude: 205.1m
+Speed: 0.0Km/H
+
+pit: -1.81, rol: -20.05, yaw: -124.83, acc_x: 362, acc_y: -4838, acc_z: 13560, gyr_x: 132, gyr_y: -47, gyr_z: -378, temp: 2788
+bd.bd.utc Time: 2024-07-15 12:56:47.400
+bd.position: 121.65225'E 38.92817'N
+bd.altitude: 132.6m
+Speed: 0.0Km/H
+
+pit: -1.87, rol: -19.93, yaw: -124.86, acc_x: 1336, acc_y: -4452, acc_z: 13648, gyr_x: 200, gyr_y: 269, gyr_z: -20, temp: 2790
+bd.bd.utc Time: 2024-07-15 12:56:47.400
+bd.position: 121.65225'E 38.92817'N
+bd.altitude: 132.6m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:56:50.000
+bd.position: 121.65225'E 38.92819'N
+bd.altitude: 137.9m
+Speed: 0.0Km/H
+
+pit: -1.40, rol: -14.59, yaw: -135.75, acc_x: 1568, acc_y: -2862, acc_z: 14948, gyr_x: 399, gyr_y: 462, gyr_z: -129, temp: 2793
+bd.bd.utc Time: 2024-07-15 12:56:50.200
+bd.position: 121.65225'E 38.92819'N
+bd.altitude: 139.2m
+Speed: 0.0Km/H
+
+pit: -1.57, rol: -15.91, yaw: -136.28, acc_x: -1084, acc_y: -2714, acc_z: 12852, gyr_x: -584, gyr_y: -106, gyr_z: -343, temp: 2790
+bd.bd.utc Time: 2024-07-15 12:56:52.400
+bd.position: 121.65224'E 38.92820'N
+bd.altitude: 141.5m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:56:53.800
+bd.position: 121.65222'E 38.92821'N
+bd.altitude: 139.0m
+Speed: 0.0Km/H
+
+pit: 2.86, rol: -15.64, yaw: -132.87, acc_x: -1290, acc_y: -1976, acc_z: 14184, gyr_x: -200, gyr_y: -282, gyr_z: 75, temp: 2792
+bd.bd.utc Time: 2024-07-15 12:56:53.800
+bd.position: 121.65222'E 38.92821'N
+bd.altitude: 138.5m
+Speed: 0.0Km/H
+
+pit: 2.32, rol: -15.31, yaw: -131.35, acc_x: 634, acc_y: -3160, acc_z: 11866, gyr_x: 24, gyr_y: -34, gyr_z: 220, temp: 2796
+bd.bd.utc Time: 2024-07-15 12:56:56.200
+bd.position: 121.65221'E 38.92823'N
+bd.altitude: 138.4m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:56:57.600
+bd.position: 121.65217'E 38.92824'N
+bd.altitude: 136.6m
+Speed: 0.0Km/H
+
+pit: 1.30, rol: -11.73, yaw: -103.33, acc_x: 476, acc_y: -2024, acc_z: 12570, gyr_x: -62, gyr_y: -32, gyr_z: -230, temp: 2797
+bd.bd.utc Time: 2024-07-15 12:56:59.000
+bd.position: 121.65216'E 38.92825'N
+bd.altitude: 134.4m
+Speed: 0.0Km/H
+
+pit: 1.82, rol: -12.27, yaw: -105.11, acc_x: -526, acc_y: -692, acc_z: 13358, gyr_x: 148, gyr_y: -35, gyr_z: 32, temp: 2798
+bd.bd.utc Time: 2024-07-15 12:56:59.200
+bd.position: 121.65215'E 38.92825'N
+bd.altitude: 133.9m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:01.400
+bd.position: 121.65212'E 38.92826'N
+bd.altitude: 128.3m
+Speed: 0.0Km/H
+
+pit: 2.91, rol: -13.10, yaw: -99.39, acc_x: 226, acc_y: -1974, acc_z: 15626, gyr_x: -35, gyr_y: -278, gyr_z: 115, temp: 2802
+bd.bd.utc Time: 2024-07-15 12:57:02.800
+bd.position: 121.65211'E 38.92827'N
+bd.altitude: 118.3m
+Speed: 0.0Km/H
+
+pit: 2.71, rol: -12.45, yaw: -98.58, acc_x: 1224, acc_y: -1940, acc_z: 13104, gyr_x: -32, gyr_y: 222, gyr_z: 65, temp: 2806
+bd.bd.utc Time: 2024-07-15 12:57:03.000
+bd.position: 121.65210'E 38.92827'N
+bd.altitude: 109.8m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:05.200
+bd.position: 121.65209'E 38.92831'N
+bd.altitude: 99.2m
+Speed: 0.0Km/H
+
+pit: -4.76, rol: -10.87, yaw: -90.64, acc_x: 158, acc_y: -360, acc_z: 11242, gyr_x: 73, gyr_y: 395, gyr_z: 30, temp: 2809
+bd.bd.utc Time: 2024-07-15 12:57:06.800
+bd.position: 121.65208'E 38.92834'N
+bd.altitude: 87.0m
+Speed: 0.0Km/H
+
+pit: -3.81, rol: -11.52, yaw: -90.97, acc_x: 848, acc_y: -2010, acc_z: 17314, gyr_x: -70, gyr_y: -272, gyr_z: 257, temp: 2809
+bd.bd.utc Time: 2024-07-15 12:57:08.000
+bd.position: 121.65206'E 38.92836'N
+bd.altitude: 78.9m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:09.200
+bd.position: 121.65206'E 38.92840'N
+bd.altitude: 68.6m
+Speed: 0.0Km/H
+
+pit: -2.00, rol: -9.35, yaw: -81.01, acc_x: 498, acc_y: -120, acc_z: 13314, gyr_x: 54, gyr_y: 1, gyr_z: -318, temp: 2812
+bd.bd.utc Time: 2024-07-15 12:57:10.400
+bd.position: 121.65206'E 38.92845'N
+bd.altitude: 61.1m
+Speed: 0.0Km/H
+
+pit: -2.00, rol: -9.00, yaw: -81.06, acc_x: -530, acc_y: -850, acc_z: 11554, gyr_x: -69, gyr_y: 341, gyr_z: -34, temp: 2813
+bd.bd.utc Time: 2024-07-15 12:57:10.800
+bd.position: 121.65206'E 38.92846'N
+bd.altitude: 59.9m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:13.200
+bd.position: 121.65205'E 38.92852'N
+bd.altitude: 46.5m
+Speed: 0.0Km/H
+
+pit: 0.64, rol: -9.53, yaw: -75.24, acc_x: 188, acc_y: 96, acc_z: 12548, gyr_x: 80, gyr_y: -146, gyr_z: 38, temp: 2818
+bd.bd.utc Time: 2024-07-15 12:57:14.600
+bd.position: 121.65204'E 38.92852'N
+bd.altitude: 44.2m
+Speed: 0.0Km/H
+
+pit: 1.43, rol: -9.02, yaw: -73.24, acc_x: 1204, acc_y: 138, acc_z: 14126, gyr_x: -270, gyr_y: 7, gyr_z: -292, temp: 2820
+bd.bd.utc Time: 2024-07-15 12:57:14.600
+bd.position: 121.65204'E 38.92852'N
+bd.altitude: 41.4m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:17.200
+bd.position: 121.65203'E 38.92853'N
+bd.altitude: 39.9m
+Speed: 0.0Km/H
+
+pit: 0.78, rol: -4.25, yaw: -66.40, acc_x: 1526, acc_y: 534, acc_z: 15768, gyr_x: 223, gyr_y: 136, gyr_z: 43, temp: 2825
+bd.bd.utc Time: 2024-07-15 12:57:18.600
+bd.position: 121.65203'E 38.92854'N
+bd.altitude: 38.7m
+Speed: 0.0Km/H
+
+pit: 0.67, rol: -3.60, yaw: -65.55, acc_x: 540, acc_y: 524, acc_z: 13986, gyr_x: -7, gyr_y: 1, gyr_z: 39, temp: 2828
+bd.bd.utc Time: 2024-07-15 12:57:18.600
+bd.position: 121.65203'E 38.92854'N
+bd.altitude: 37.2m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:21.200
+bd.position: 121.65203'E 38.92854'N
+bd.altitude: 37.2m
+Speed: 0.0Km/H
+
+pit: -0.62, rol: -6.88, yaw: -47.92, acc_x: 1502, acc_y: 1930, acc_z: 13478, gyr_x: 56, gyr_y: -146, gyr_z: 196, temp: 2829
+bd.bd.utc Time: 2024-07-15 12:57:22.600
+bd.position: 121.65204'E 38.92856'N
+bd.altitude: 32.3m
+Speed: 0.0Km/H
+
+pit: -0.03, rol: -6.77, yaw: -47.44, acc_x: 572, acc_y: 742, acc_z: 12270, gyr_x: -56, gyr_y: 131, gyr_z: 115, temp: 2832
+bd.bd.utc Time: 2024-07-15 12:57:22.600
+bd.position: 121.65204'E 38.92856'N
+bd.altitude: 40.3m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:25.200
+bd.position: 121.65212'E 38.92861'N
+bd.altitude: 48.0m
+Speed: 0.0Km/H
+
+pit: -3.03, rol: -3.60, yaw: -48.03, acc_x: 2956, acc_y: -3100, acc_z: 13152, gyr_x: -69, gyr_y: 26, gyr_z: -363, temp: 2832
+bd.bd.utc Time: 2024-07-15 12:57:26.600
+bd.position: 121.65214'E 38.92862'N
+bd.altitude: 54.9m
+Speed: 0.0Km/H
+
+pit: -4.01, rol: -2.92, yaw: -50.21, acc_x: 1380, acc_y: 1346, acc_z: 15350, gyr_x: 218, gyr_y: 150, gyr_z: 136, temp: 2832
+bd.bd.utc Time: 2024-07-15 12:57:28.000
+bd.position: 121.65215'E 38.92863'N
+bd.altitude: 56.5m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:29.200
+bd.position: 121.65215'E 38.92864'N
+bd.altitude: 54.2m
+Speed: 0.0Km/H
+
+pit: -2.22, rol: -5.07, yaw: -36.07, acc_x: 1604, acc_y: 14, acc_z: 13100, gyr_x: -166, gyr_y: -351, gyr_z: -187, temp: 2837
+bd.bd.utc Time: 2024-07-15 12:57:30.800
+bd.position: 121.65215'E 38.92865'N
+bd.altitude: 50.6m
+Speed: 0.0Km/H
+
+pit: -1.71, rol: -4.21, yaw: -35.13, acc_x: 492, acc_y: 958, acc_z: 10884, gyr_x: -19, gyr_y: 144, gyr_z: -27, temp: 2837
+bd.bd.utc Time: 2024-07-15 12:57:32.000
+bd.position: 121.65215'E 38.92867'N
+bd.altitude: 48.5m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:33.200
+bd.position: 121.65214'E 38.92868'N
+bd.altitude: 45.0m
+Speed: 0.0Km/H
+
+pit: -2.97, rol: -4.78, yaw: -29.40, acc_x: 984, acc_y: 1744, acc_z: 15744, gyr_x: 180, gyr_y: 459, gyr_z: -226, temp: 2841
+bd.bd.utc Time: 2024-07-15 12:57:34.400
+bd.position: 121.65214'E 38.92868'N
+bd.altitude: 47.6m
+Speed: 0.0Km/H
+
+pit: -3.17, rol: -5.22, yaw: -28.60, acc_x: 2326, acc_y: 986, acc_z: 12396, gyr_x: -305, gyr_y: -312, gyr_z: -199, temp: 2844
+bd.bd.utc Time: 2024-07-15 12:57:36.000
+bd.position: 121.65213'E 38.92869'N
+bd.altitude: 44.7m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:37.200
+bd.position: 121.65212'E 38.92870'N
+bd.altitude: 43.2m
+Speed: 0.0Km/H
+
+pit: -2.22, rol: -1.96, yaw: -23.49, acc_x: 976, acc_y: 1424, acc_z: 11940, gyr_x: 148, gyr_y: 113, gyr_z: -56, temp: 2848
+bd.bd.utc Time: 2024-07-15 12:57:38.400
+bd.position: 121.65212'E 38.92872'N
+bd.altitude: 42.1m
+Speed: 0.0Km/H
+
+pit: -1.41, rol: -3.13, yaw: -22.51, acc_x: 188, acc_y: -1170, acc_z: 18808, gyr_x: -312, gyr_y: -213, gyr_z: -289, temp: 2853
+bd.bd.utc Time: 2024-07-15 12:57:40.000
+bd.position: 121.65211'E 38.92873'N
+bd.altitude: 41.3m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:41.200
+bd.position: 121.65211'E 38.92874'N
+bd.altitude: 43.1m
+Speed: 0.0Km/H
+
+pit: -1.99, rol: -2.26, yaw: -13.40, acc_x: 370, acc_y: 1420, acc_z: 10146, gyr_x: -27, gyr_y: -20, gyr_z: 44, temp: 2858
+bd.bd.utc Time: 2024-07-15 12:57:42.400
+bd.position: 121.65211'E 38.92875'N
+bd.altitude: 44.2m
+Speed: 0.0Km/H
+
+pit: -2.44, rol: -2.68, yaw: -13.06, acc_x: 264, acc_y: 1726, acc_z: 15336, gyr_x: 215, gyr_y: 327, gyr_z: -93, temp: 2863
+bd.bd.utc Time: 2024-07-15 12:57:44.000
+bd.position: 121.65211'E 38.92877'N
+bd.altitude: 32.7m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:45.200
+bd.position: 121.65208'E 38.92882'N
+bd.altitude: 22.7m
+Speed: 0.0Km/H
+
+pit: -3.89, rol: -3.27, yaw: -5.70, acc_x: -22, acc_y: 228, acc_z: 13748, gyr_x: -12, gyr_y: 111, gyr_z: -3, temp: 2866
+bd.bd.utc Time: 2024-07-15 12:57:46.400
+bd.position: 121.65203'E 38.92894'N
+bd.altitude: 9.0m
+Speed: 0.0Km/H
+
+pit: -4.70, rol: -3.64, yaw: -5.16, acc_x: 1662, acc_y: 74, acc_z: 10864, gyr_x: 263, gyr_y: -66, gyr_z: 115, temp: 2869
+bd.bd.utc Time: 2024-07-15 12:57:48.000
+bd.position: 121.65202'E 38.92897'N
+bd.altitude: 0.4m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:48.200
+bd.position: 121.65201'E 38.92900'N
+bd.altitude: -8.-9m
+Speed: 0.0Km/H
+
+pit: 2.82, rol: -8.87, yaw: 4.30, acc_x: 490, acc_y: 968, acc_z: 11926, gyr_x: 51, gyr_y: 84, gyr_z: 200, temp: 2875
+bd.bd.utc Time: 2024-07-15 12:57:50.400
+bd.position: 121.65200'E 38.92916'N
+bd.altitude: -33.-2m
+Speed: 0.0Km/H
+
+pit: 3.69, rol: -7.95, yaw: 5.65, acc_x: 1002, acc_y: -368, acc_z: 16910, gyr_x: -172, gyr_y: -407, gyr_z: -27, temp: 2879
+bd.bd.utc Time: 2024-07-15 12:57:50.400
+bd.position: 121.65200'E 38.92916'N
+bd.altitude: -25.-8m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:53.000
+bd.position: 121.65198'E 38.92924'N
+bd.altitude: -39.0m
+Speed: 0.0Km/H
+
+pit: -5.04, rol: -4.62, yaw: 13.09, acc_x: 3002, acc_y: -252, acc_z: 12204, gyr_x: -61, gyr_y: -237, gyr_z: -212, temp: 2883
+bd.bd.utc Time: 2024-07-15 12:57:54.200
+bd.position: 121.65197'E 38.92926'N
+bd.altitude: -41.-4m
+Speed: 0.0Km/H
+
+pit: -3.95, rol: -5.12, yaw: 13.11, acc_x: 412, acc_y: 1104, acc_z: 12006, gyr_x: 99, gyr_y: 295, gyr_z: -14, temp: 2884
+bd.bd.utc Time: 2024-07-15 12:57:55.400
+bd.position: 121.65194'E 38.92931'N
+bd.altitude: -2698.-6m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:57:56.800
+bd.position: 121.65192'E 38.92935'N
+bd.altitude: -64.-3m
+Speed: 0.0Km/H
+
+pit: -1.94, rol: -4.61, yaw: 18.77, acc_x: 1206, acc_y: -250, acc_z: 12938, gyr_x: 66, gyr_y: -115, gyr_z: 35, temp: 2890
+bd.bd.utc Time: 2024-07-15 12:57:56.800
+bd.position: 121.65192'E 38.92935'N
+bd.altitude: -63.-7m
+Speed: 0.0Km/H
+
+pit: -0.57, rol: -5.54, yaw: 18.90, acc_x: -162, acc_y: 526, acc_z: 13740, gyr_x: -90, gyr_y: -4, gyr_z: -168, temp: 2887
+bd.bd.utc Time: 2024-07-15 12:57:59.200
+bd.position: 121.65190'E 38.92936'N
+bd.altitude: -49.-3m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:00.600
+bd.position: 121.65190'E 38.92937'N
+bd.altitude: -45.-1m
+Speed: 0.0Km/H
+
+pit: -2.45, rol: -6.26, yaw: 36.01, acc_x: 836, acc_y: 1408, acc_z: 11776, gyr_x: -74, gyr_y: 108, gyr_z: 161, temp: 2896
+bd.bd.utc Time: 2024-07-15 12:58:04.600
+bd.position: 121.65189'E 38.92954'N
+bd.altitude: -11.-5m
+Speed: 0.0Km/H
+
+pit: -2.30, rol: -6.91, yaw: 37.02, acc_x: 1986, acc_y: -442, acc_z: 16614, gyr_x: -319, gyr_y: -241, gyr_z: -11, temp: 2896
+bd.bd.utc Time: 2024-07-15 12:58:06.200
+bd.position: 121.65185'E 38.92956'N
+bd.altitude: -5.-8m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:08.400
+bd.position: 121.65181'E 38.92960'N
+bd.altitude: 0.0m
+Speed: 0.0Km/H
+
+pit: -3.90, rol: -6.38, yaw: 44.95, acc_x: 1710, acc_y: 58, acc_z: 18722, gyr_x: -41, gyr_y: -197, gyr_z: 107, temp: 2900
+bd.bd.utc Time: 2024-07-15 12:58:08.600
+bd.position: 121.65179'E 38.92960'N
+bd.altitude: -5.-4m
+Speed: 0.0Km/H
+
+pit: -4.32, rol: -4.67, yaw: 45.38, acc_x: 1306, acc_y: -782, acc_z: 13884, gyr_x: -48, gyr_y: 283, gyr_z: 2, temp: 2900
+bd.bd.utc Time: 2024-07-15 12:58:11.000
+bd.position: 121.65171'E 38.92964'N
+bd.altitude: -6.-9m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:11.200
+bd.position: 121.65171'E 38.92964'N
+bd.altitude: -7.-5m
+Speed: 0.0Km/H
+
+pit: -3.40, rol: 0.46, yaw: 51.52, acc_x: 2540, acc_y: -100, acc_z: 13508, gyr_x: -164, gyr_y: -301, gyr_z: -201, temp: 2905
+bd.bd.utc Time: 2024-07-15 12:58:13.400
+bd.position: 121.65166'E 38.92964'N
+bd.altitude: -4.0m
+Speed: 0.0Km/H
+
+pit: -2.33, rol: -0.34, yaw: 51.18, acc_x: 1224, acc_y: 2160, acc_z: 12506, gyr_x: 28, gyr_y: -91, gyr_z: -39, temp: 2905
+bd.bd.utc Time: 2024-07-15 12:58:13.400
+bd.position: 121.65166'E 38.92964'N
+bd.altitude: 1.9m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:16.000
+bd.position: 121.65168'E 38.92967'N
+bd.altitude: 2.4m
+Speed: 0.0Km/H
+
+pit: -4.20, rol: -1.33, yaw: 66.21, acc_x: 644, acc_y: 2320, acc_z: 12606, gyr_x: 69, gyr_y: 108, gyr_z: -29, temp: 2909
+bd.bd.utc Time: 2024-07-15 12:58:16.200
+bd.position: 121.65168'E 38.92967'N
+bd.altitude: 3.9m
+Speed: 0.0Km/H
+
+pit: -3.43, rol: -1.20, yaw: 65.88, acc_x: 966, acc_y: -98, acc_z: 18200, gyr_x: -517, gyr_y: -337, gyr_z: -146, temp: 2913
+bd.bd.utc Time: 2024-07-15 12:58:18.400
+bd.position: 121.65167'E 38.92972'N
+bd.altitude: 6.0m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:19.800
+bd.position: 121.65170'E 38.92978'N
+bd.altitude: 5.4m
+Speed: 0.0Km/H
+
+pit: -2.50, rol: -2.35, yaw: 69.67, acc_x: 652, acc_y: 388, acc_z: 14228, gyr_x: -268, gyr_y: -110, gyr_z: 268, temp: 2913
+bd.bd.utc Time: 2024-07-15 12:58:20.000
+bd.position: 121.65171'E 38.92980'N
+bd.altitude: 10.3m
+Speed: 0.0Km/H
+
+pit: -2.96, rol: -2.15, yaw: 70.05, acc_x: 682, acc_y: 2004, acc_z: 9814, gyr_x: -139, gyr_y: -82, gyr_z: 114, temp: 2914
+bd.bd.utc Time: 2024-07-15 12:58:21.200
+bd.position: 121.65174'E 38.92984'N
+bd.altitude: 10.5m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:23.400
+bd.position: 121.65172'E 38.92981'N
+bd.altitude: 32.0m
+Speed: 0.0Km/H
+
+pit: -3.45, rol: -1.89, yaw: 81.19, acc_x: 2382, acc_y: 838, acc_z: 15862, gyr_x: -270, gyr_y: -516, gyr_z: -84, temp: 2916
+bd.bd.utc Time: 2024-07-15 12:58:24.800
+bd.position: 121.65171'E 38.92984'N
+bd.altitude: 28.4m
+Speed: 0.0Km/H
+
+pit: -5.49, rol: -3.58, yaw: 80.70, acc_x: 2154, acc_y: 1396, acc_z: 16236, gyr_x: 132, gyr_y: -110, gyr_z: 123, temp: 2915
+bd.bd.utc Time: 2024-07-15 12:58:24.800
+bd.position: 121.65171'E 38.92984'N
+bd.altitude: 27.6m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:26.200
+bd.position: 121.65166'E 38.92983'N
+bd.altitude: 27.2m
+Speed: 0.0Km/H
+
+pit: -3.09, rol: -1.04, yaw: 95.70, acc_x: 1060, acc_y: 652, acc_z: 12072, gyr_x: -79, gyr_y: -27, gyr_z: 33, temp: 2918
+bd.bd.utc Time: 2024-07-15 12:58:28.200
+bd.position: 121.65163'E 38.92984'N
+bd.altitude: 24.7m
+Speed: 0.0Km/H
+
+pit: -3.71, rol: -0.86, yaw: 96.09, acc_x: 428, acc_y: 1944, acc_z: 16416, gyr_x: 204, gyr_y: 95, gyr_z: -176, temp: 2920
+bd.bd.utc Time: 2024-07-15 12:58:28.200
+bd.position: 121.65163'E 38.92984'N
+bd.altitude: 23.0m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:31.000
+bd.position: 121.65162'E 38.92989'N
+bd.altitude: 22.2m
+Speed: 0.0Km/H
+
+pit: -6.40, rol: -2.69, yaw: 100.27, acc_x: 2286, acc_y: -716, acc_z: 19722, gyr_x: -306, gyr_y: -325, gyr_z: 162, temp: 2922
+bd.bd.utc Time: 2024-07-15 12:58:32.200
+bd.position: 121.65162'E 38.92991'N
+bd.altitude: 17.3m
+Speed: 0.0Km/H
+
+pit: -4.09, rol: -2.39, yaw: 100.02, acc_x: 1030, acc_y: 1240, acc_z: 10844, gyr_x: 94, gyr_y: 52, gyr_z: 67, temp: 2919
+bd.bd.utc Time: 2024-07-15 12:58:33.600
+bd.position: 121.65161'E 38.92994'N
+bd.altitude: 12.7m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:35.000
+bd.position: 121.65161'E 38.92996'N
+bd.altitude: 10.1m
+Speed: 0.0Km/H
+
+pit: -5.21, rol: -2.41, yaw: 110.27, acc_x: 1184, acc_y: 1992, acc_z: 16280, gyr_x: 245, gyr_y: 318, gyr_z: 263, temp: 2922
+bd.bd.utc Time: 2024-07-15 12:58:35.200
+bd.position: 121.65161'E 38.92997'N
+bd.altitude: 9.1m
+Speed: 0.0Km/H
+
+pit: -5.85, rol: -2.84, yaw: 109.83, acc_x: 1330, acc_y: -486, acc_z: 13374, gyr_x: -14, gyr_y: 22, gyr_z: -160, temp: 2921
+bd.bd.utc Time: 2024-07-15 12:58:37.400
+bd.position: 121.65154'E 38.92997'N
+bd.altitude: 0.0m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:38.800
+bd.position: 121.65149'E 38.92995'N
+bd.altitude: -2.-7m
+Speed: 0.0Km/H
+
+
+pit: -2.19, rol: -0.36, yaw: 119.59, acc_x: 1334, acc_y: 3364, acc_z: 15560, gyr_x: 274, gyr_y: 157, gyr_z: 119, temp: 2920
+bd.bd.utc Time: 2024-07-15 12:58:40.200
+bd.position: 121.65148'E 38.92997'N
+bd.altitude: 0.6m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:42.400
+bd.position: 121.65148'E 38.92998'N
+bd.altitude: -7.0m
+Speed: 0.0Km/H
+
+pit: -4.88, rol: -0.50, yaw: 122.55, acc_x: 1486, acc_y: -222, acc_z: 13530, gyr_x: -113, gyr_y: 25, gyr_z: -4, temp: 2921
+bd.bd.utc Time: 2024-07-15 12:58:43.800
+bd.position: 121.65146'E 38.92998'N
+bd.altitude: -6.-8m
+Speed: 0.0Km/H
+
+pit: -4.10, rol: -0.99, yaw: 123.30, acc_x: 1918, acc_y: 440, acc_z: 17414, gyr_x: -258, gyr_y: -526, gyr_z: -186, temp: 2921
+bd.bd.utc Time: 2024-07-15 12:58:44.000
+bd.position: 121.65146'E 38.92998'N
+bd.altitude: -4.-6m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:46.200
+bd.position: 121.65145'E 38.92999'N
+bd.altitude: -4.-1m
+Speed: 0.0Km/H
+
+pit: -6.33, rol: -3.76, yaw: 128.18, acc_x: -198, acc_y: -26, acc_z: 16220, gyr_x: -116, gyr_y: -43, gyr_z: 224, temp: 2923
+bd.bd.utc Time: 2024-07-15 12:58:47.400
+bd.position: 121.65144'E 38.92998'N
+bd.altitude: -2.-6m
+Speed: 0.0Km/H
+
+pit: -6.06, rol: -2.75, yaw: 128.90, acc_x: 1788, acc_y: -106, acc_z: 10670, gyr_x: 95, gyr_y: 26, gyr_z: 166, temp: 2922
+bd.bd.utc Time: 2024-07-15 12:58:49.000
+bd.position: 121.65143'E 38.92997'N
+bd.altitude: 1.2m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:50.200
+bd.position: 121.65142'E 38.92997'N
+bd.altitude: 3.4m
+Speed: 0.0Km/H
+
+pit: -5.81, rol: -6.55, yaw: 146.66, acc_x: -84, acc_y: -2090, acc_z: 18794, gyr_x: -418, gyr_y: -265, gyr_z: 313, temp: 2918
+bd.bd.utc Time: 2024-07-15 12:58:51.200
+bd.position: 121.65141'E 38.92999'N
+bd.altitude: 1.7m
+Speed: 0.0Km/H
+
+pit: -4.57, rol: -6.42, yaw: 145.65, acc_x: 632, acc_y: 900, acc_z: 9636, gyr_x: 108, gyr_y: -65, gyr_z: 190, temp: 2920
+bd.bd.utc Time: 2024-07-15 12:58:53.000
+bd.position: 121.65138'E 38.92995'N
+bd.altitude: -1.-7m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:54.200
+bd.position: 121.65136'E 38.92995'N
+bd.altitude: -5.-4m
+Speed: 0.0Km/H
+
+pit: -1.62, rol: -4.58, yaw: 151.59, acc_x: 1100, acc_y: 740, acc_z: 15750, gyr_x: 39, gyr_y: 357, gyr_z: 321, temp: 2921
+bd.bd.utc Time: 2024-07-15 12:58:55.200
+bd.position: 121.65135'E 38.92995'N
+bd.altitude: -4.-4m
+Speed: 0.0Km/H
+
+pit: -0.74, rol: -4.54, yaw: 151.10, acc_x: 830, acc_y: -1658, acc_z: 14202, gyr_x: -160, gyr_y: -88, gyr_z: -77, temp: 2920
+bd.bd.utc Time: 2024-07-15 12:58:57.000
+bd.position: 121.65134'E 38.92993'N
+bd.altitude: 6.5m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:58:57.200
+bd.position: 121.65133'E 38.92993'N
+bd.altitude: 6.2m
+Speed: 0.0Km/H
+
+pit: 1.09, rol: -7.52, yaw: 173.80, acc_x: 390, acc_y: -146, acc_z: 14578, gyr_x: -79, gyr_y: -151, gyr_z: -21, temp: 2922
+bd.bd.utc Time: 2024-07-15 12:58:58.200
+bd.position: 121.65133'E 38.92984'N
+bd.altitude: 30.4m
+Speed: 0.0Km/H
+
+pit: 0.81, rol: -7.35, yaw: 174.33, acc_x: 896, acc_y: -4, acc_z: 16692, gyr_x: -113, gyr_y: 408, gyr_z: -138, temp: 2924
+bd.bd.utc Time: 2024-07-15 12:59:00.400
+bd.position: 121.65312'E 38.92893'N
+bd.altitude: -8.-8m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:59:03.000
+bd.position: 121.65100'E 38.92840'N
+bd.altitude: 248.0m
+Speed: 0.0Km/H
+
+pit: 0.08, rol: -5.67, yaw: -172.09, acc_x: 238, acc_y: 1352, acc_z: 13288, gyr_x: -30, gyr_y: -125, gyr_z: 79, temp: 2925
+bd.bd.utc Time: 2024-07-15 12:59:03.200
+bd.position: 121.65099'E 38.92840'N
+bd.altitude: 248.2m
+Speed: 0.0Km/H
+
+pit: -0.23, rol: -5.48, yaw: -172.11, acc_x: 270, acc_y: -2058, acc_z: 18426, gyr_x: -185, gyr_y: -528, gyr_z: 151, temp: 2927
+bd.bd.utc Time: 2024-07-15 12:59:05.400
+bd.position: 121.65098'E 38.92841'N
+bd.altitude: 244.6m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:59:06.800
+bd.position: 121.65096'E 38.92842'N
+bd.altitude: 232.9m
+Speed: 0.0Km/H
+
+pit: -0.68, rol: -7.53, yaw: -160.84, acc_x: -212, acc_y: 946, acc_z: 13630, gyr_x: 27, gyr_y: -745, gyr_z: -67, temp: 2926
+bd.bd.utc Time: 2024-07-15 12:59:07.000
+bd.position: 121.65096'E 38.92842'N
+bd.altitude: 226.6m
+Speed: 0.0Km/H
+
+pit: 0.75, rol: -6.84, yaw: -160.24, acc_x: 52, acc_y: 2450, acc_z: 13656, gyr_x: -30, gyr_y: 85, gyr_z: 634, temp: 2928
+bd.bd.utc Time: 2024-07-15 12:59:08.200
+bd.position: 121.65095'E 38.92842'N
+bd.altitude: 227.5m
+Speed: 0.0Km/H
+
+bd.bd.utc Time: 2024-07-15 12:59:10.200
+bd.position: 121.65096'E 38.92844'N
+bd.altitude: 171.5m
+Speed: 0.0Km/H
+
+pit: -1.82, rol: -6.36, yaw: -82.04, acc_x: 1260, acc_y: 1526, acc_z: 11600, gyr_x: 19, gyr_y: -480, gyr_z: -90, temp: 2929
+bd.bd.utc Time: 2024-07-15 12:59:11.800
+bd.position: 121.65096'E 38.92847'N
+bd.altitude: -2697.-9m
+Speed: 0.0Km/H
+
+pit: -2.34, rol: -7.98, yaw: -81.08, acc_x: 1376, acc_y: -2586, acc_z: 12906, gyr_x: -288, gyr_y: -97, gyr_z: 27, temp: 2934
+bd.bd.utc Time: 2024-07-15 12:59:13.000
+bd.position: 121.65095'E 38.92847'N
+bd.altitude: 154.6m
+Speed: 0.0Km/H
+
